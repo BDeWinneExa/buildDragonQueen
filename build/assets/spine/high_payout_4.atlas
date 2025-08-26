@@ -1,0 +1,213 @@
+high_payout_4.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.33
+Layer 10
+	bounds: 2, 2, 53, 9
+Layer 2
+	bounds: 2, 13, 63, 117
+	rotate: 90
+Layer 3
+	bounds: 940, 931, 45, 83
+Layer 8
+	bounds: 121, 14, 18, 10
+pfx/bgglow_0000
+	bounds: 2, 882, 132, 132
+pfx/bgglow_0001
+	bounds: 2, 748, 132, 132
+pfx/bgglow_0002
+	bounds: 136, 882, 132, 132
+pfx/bgglow_0003
+	bounds: 2, 614, 132, 132
+pfx/bgglow_0004
+	bounds: 136, 748, 132, 132
+pfx/bgglow_0005
+	bounds: 270, 882, 132, 132
+pfx/bgglow_0006
+	bounds: 2, 480, 132, 132
+pfx/bgglow_0007
+	bounds: 136, 614, 132, 132
+pfx/bgglow_0008
+	bounds: 270, 748, 132, 132
+pfx/bgglow_0009
+	bounds: 404, 882, 132, 132
+pfx/bgglow_0010
+	bounds: 2, 346, 132, 132
+pfx/bgglow_0011
+	bounds: 136, 480, 132, 132
+pfx/bgglow_0012
+	bounds: 270, 614, 132, 132
+pfx/bgglow_0013
+	bounds: 404, 748, 132, 132
+pfx/bgglow_0014
+	bounds: 538, 882, 132, 132
+pfx/bgglow_0015
+	bounds: 2, 212, 132, 132
+pfx/bgglow_0016
+	bounds: 136, 346, 132, 132
+pfx/bgglow_0017
+	bounds: 270, 480, 132, 132
+pfx/bgglow_0018
+	bounds: 404, 614, 132, 132
+pfx/bgglow_0019
+	bounds: 538, 748, 132, 132
+pfx/bgglow_0020
+	bounds: 672, 882, 132, 132
+pfx/bgglow_0021
+	bounds: 2, 78, 132, 132
+pfx/bgglow_0022
+	bounds: 136, 212, 132, 132
+pfx/bgglow_0023
+	bounds: 270, 346, 132, 132
+pfx/bgglow_0024
+	bounds: 404, 480, 132, 132
+pfx/bgglow_0025
+	bounds: 538, 614, 132, 132
+pfx/bgglow_0026
+	bounds: 672, 748, 132, 132
+pfx/bgglow_0027
+	bounds: 806, 882, 132, 132
+pfx/bgglow_0028
+	bounds: 136, 78, 132, 132
+pfx/bgglow_0029
+	bounds: 270, 212, 132, 132
+pfx/bgglow_0030
+	bounds: 404, 346, 132, 132
+pfx/bgglow_0031
+	bounds: 538, 480, 132, 132
+pfx/bgglow_0032
+	bounds: 672, 614, 132, 132
+pfx/bgglow_0033
+	bounds: 806, 748, 132, 132
+pfx/bgglow_0034
+	bounds: 270, 78, 132, 132
+pfx/bgglow_0035
+	bounds: 404, 212, 132, 132
+pfx/bgglow_0036
+	bounds: 538, 346, 132, 132
+pfx/bgglow_0037
+	bounds: 672, 480, 132, 132
+pfx/bgglow_0038
+	bounds: 806, 614, 132, 132
+pfx/cupaura_0000
+	bounds: 404, 160, 50, 50
+pfx/cupaura_0001
+	bounds: 538, 294, 50, 50
+pfx/cupaura_0002
+	bounds: 672, 428, 50, 50
+pfx/cupaura_0003
+	bounds: 806, 562, 50, 50
+pfx/cupaura_0004
+	bounds: 121, 26, 50, 50
+pfx/cupaura_0005
+	bounds: 404, 108, 50, 50
+pfx/cupaura_0006
+	bounds: 456, 160, 50, 50
+pfx/cupaura_0007
+	bounds: 538, 242, 50, 50
+pfx/cupaura_0008
+	bounds: 590, 294, 50, 50
+pfx/cupaura_0009
+	bounds: 672, 376, 50, 50
+pfx/cupaura_0010
+	bounds: 724, 428, 50, 50
+pfx/cupaura_0011
+	bounds: 806, 510, 50, 50
+pfx/cupaura_0012
+	bounds: 858, 562, 50, 50
+pfx/cupaura_0013
+	bounds: 173, 26, 50, 50
+pfx/cupaura_0014
+	bounds: 456, 108, 50, 50
+pfx/cupaura_0015
+	bounds: 590, 242, 50, 50
+pfx/cupaura_0016
+	bounds: 724, 376, 50, 50
+pfx/cupaura_0017
+	bounds: 858, 510, 50, 50
+pfx/cupaura_0018
+	bounds: 225, 26, 50, 50
+pfx/cupaura_0019
+	bounds: 277, 26, 50, 50
+pfx/cupaura_0020
+	bounds: 329, 26, 50, 50
+pfx/cupaura_0021
+	bounds: 940, 879, 50, 50
+pfx/cupaura_0022
+	bounds: 940, 827, 50, 50
+pfx/cupaura_0023
+	bounds: 940, 775, 50, 50
+pfx/cupaura_0024
+	bounds: 940, 723, 50, 50
+pfx/cupaura_0025
+	bounds: 940, 671, 50, 50
+pfx/cupaura_0026
+	bounds: 940, 619, 50, 50
+pfx/cupaura_0027
+	bounds: 404, 56, 50, 50
+pfx/cupaura_0028
+	bounds: 456, 56, 50, 50
+pfx/cupaura_0029
+	bounds: 508, 160, 50, 50
+pfx/cupaura_0030
+	bounds: 508, 108, 50, 50
+pfx/cupaura_0031
+	bounds: 508, 56, 50, 50
+pfx/cupaura_0032
+	bounds: 642, 294, 50, 50
+pfx/cupaura_0033
+	bounds: 642, 242, 50, 50
+pfx/cupaura_0034
+	bounds: 776, 428, 50, 50
+pfx/cupaura_0035
+	bounds: 776, 376, 50, 50
+pfx/cupaura_0036
+	bounds: 910, 562, 50, 50
+pfx/cupaura_0037
+	bounds: 910, 510, 50, 50
+pfx/cupaura_0038
+	bounds: 962, 567, 50, 50
+pfx/cupaura_0039
+	bounds: 962, 515, 50, 50
+pfx/cupaura_0040
+	bounds: 560, 190, 50, 50
+pfx/cupaura_0041
+	bounds: 560, 138, 50, 50
+pfx/cupaura_0042
+	bounds: 612, 190, 50, 50
+pfx/cupaura_0043
+	bounds: 560, 86, 50, 50
+pfx/cupaura_0044
+	bounds: 612, 138, 50, 50
+pfx/cupaura_0045
+	bounds: 612, 86, 50, 50
+pfx/cupaura_0046
+	bounds: 664, 190, 50, 50
+pfx/cupaura_0047
+	bounds: 664, 138, 50, 50
+pfx/cupaura_0048
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0049
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0050
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0051
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0052
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0053
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0054
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0055
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0056
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0057
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0058
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0059
+	bounds: 664, 86, 50, 50
+pfx/cupaura_0060
+	bounds: 664, 86, 50, 50

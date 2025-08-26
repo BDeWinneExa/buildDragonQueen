@@ -1,0 +1,132 @@
+multiplier_3.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.33
+Circle_rays_20
+	bounds: 2, 686, 335, 336
+	offsets: 1, 0, 338, 338
+FX/Comp1/Puple1__00000
+	bounds: 696, 938, 27, 20
+	offsets: 20, 3, 66, 66
+FX/Comp1/Puple1__00001
+	bounds: 231, 546, 31, 37
+	offsets: 18, 3, 66, 66
+FX/Comp1/Puple1__00002
+	bounds: 574, 913, 34, 41
+	offsets: 16, 3, 66, 66
+FX/Comp1/Puple1__00003
+	bounds: 131, 402, 38, 46
+	offsets: 14, 3, 66, 66
+FX/Comp1/Puple1__00004
+	bounds: 264, 534, 43, 49
+	offsets: 12, 3, 66, 66
+	rotate: 90
+FX/Comp1/Puple1__00005
+	bounds: 885, 973, 44, 49
+	offsets: 12, 4, 66, 66
+FX/Comp1/Puple1__00006
+	bounds: 838, 972, 45, 50
+	offsets: 12, 4, 66, 66
+FX/Comp1/Puple1__00007
+	bounds: 2, 69, 45, 54
+	offsets: 12, 3, 66, 66
+FX/Comp1/Puple1__00008
+	bounds: 790, 969, 46, 53
+	offsets: 11, 4, 66, 66
+FX/Comp1/Puple1__00009
+	bounds: 407, 849, 46, 55
+	offsets: 11, 4, 66, 66
+FX/Comp1/Puple1__00010
+	bounds: 461, 909, 45, 55
+	offsets: 12, 4, 66, 66
+	rotate: 90
+FX/Comp1/Puple1__00011
+	bounds: 84, 393, 45, 55
+	offsets: 12, 5, 66, 66
+FX/Comp1/Puple1__00012
+	bounds: 518, 909, 45, 54
+	offsets: 12, 6, 66, 66
+	rotate: 90
+FX/Comp1/Puple1__00013
+	bounds: 2, 15, 45, 52
+	offsets: 13, 8, 66, 66
+FX/Comp1/Puple1__00014
+	bounds: 931, 982, 40, 53
+	offsets: 17, 8, 66, 66
+	rotate: 90
+FX/Comp1/Puple1__00015
+	bounds: 264, 579, 38, 50
+	offsets: 17, 10, 66, 66
+	rotate: 90
+FX/Comp1/Puple1__00016
+	bounds: 986, 976, 36, 46
+	offsets: 18, 13, 66, 66
+FX/Comp1/Puple1__00017
+	bounds: 610, 918, 29, 39
+	offsets: 19, 18, 66, 66
+FX/Comp1/Puple1__00018
+	bounds: 231, 519, 25, 29
+	offsets: 21, 19, 66, 66
+	rotate: 90
+FX/Comp1/Puple1__00019
+	bounds: 670, 932, 24, 26
+	offsets: 21, 21, 66, 66
+FX/Comp1/Puple1__00020
+	bounds: 725, 938, 21, 23
+	offsets: 22, 23, 66, 66
+FX/Elements 1/Elements 1_00000
+	bounds: 264, 619, 65, 65
+	offsets: 1, 0, 66, 66
+FX/Elements 1/Elements 1_00001
+	bounds: 339, 770, 64, 66
+	offsets: 2, 0, 66, 66
+FX/Elements 1/Elements 1_00002
+	bounds: 2, 256, 63, 66
+	offsets: 3, 0, 66, 66
+FX/Elements 1/Elements 1_00003
+	bounds: 2, 191, 61, 63
+	offsets: 5, 3, 66, 66
+FX/Elements 1/Elements 1_00004
+	bounds: 595, 959, 64, 63
+	offsets: 2, 3, 66, 66
+FX/Elements 1/Elements 1_00005
+	bounds: 2, 125, 64, 58
+	offsets: 1, 8, 66, 66
+	rotate: 90
+FX/Elements 1/Elements 1_00006
+	bounds: 725, 963, 63, 59
+	offsets: 1, 7, 66, 66
+FX/Elements 1/Elements 1_00007
+	bounds: 661, 960, 62, 62
+	offsets: 1, 4, 66, 66
+FX/Elements 1/Elements 1_00008
+	bounds: 339, 702, 62, 66
+	offsets: 1, 0, 66, 66
+FX/Elements 1/Elements 1_00009
+	bounds: 529, 956, 64, 66
+	offsets: 0, 0, 66, 66
+FX/Elements 1/Elements 1_00010
+	bounds: 339, 838, 66, 66
+FX/Elements 1/Elements 1_00011
+	bounds: 461, 956, 66, 66
+FX/Elements 1/Elements 1_00012
+	bounds: 2, 324, 66, 65
+	offsets: 0, 0, 66, 66
+FX/Elements 1/Elements 1_00013
+	bounds: 84, 450, 66, 65
+	offsets: 0, 0, 66, 66
+FX/Elements 1/Elements 1_00014
+	bounds: 163, 518, 66, 65
+	offsets: 0, 0, 66, 66
+Fire
+	bounds: 2, 391, 80, 124
+Frame
+	bounds: 2, 517, 159, 167
+Purple Base
+	bounds: 339, 906, 120, 116
+back
+	bounds: 163, 585, 99, 99
+	offsets: 23, 27, 144, 152
+star 2
+	bounds: 641, 925, 32, 27
+	rotate: 90

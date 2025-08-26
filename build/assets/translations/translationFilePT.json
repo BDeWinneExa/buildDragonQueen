@@ -1,0 +1,302 @@
+{
+  "introTextDesktop": "GANHE ATÉ 5.000X",
+  "introTextMobile": "GANHE ATÉ 5.000X",
+  "tfTotalWin": "GANHO TOTAL’",
+  "paytable": {
+    "page1": {
+      "title": "HEADER",
+      "tf0": "Semboller ekrandaki her yere ödeme yapar. Bir spinin sonunda ekrandaki aynı sembolün toplam\nsayısı, kazanma değerini belirler.",
+      "item2": "Este é o símbolo SCATTER.\n O símbolo SCATTER está \npresente em todos os rolos.\nO SCATTER paga em qualquer\n posição"
+    },
+    "page2": {
+      "title": "RECURSO DE QUEDA",
+      "tf0": "O recurso TUMBLE significa que, após cada rodada,\n  as combinações vencedoras são pagas e todos os símbo\nlos vencedores desaparecem. Os símbolos restantes \ncaem na parte inferior da tela e as posições vazias são\n  substituídas por símbolos vindos de cima.",
+      "tf1": "A queda continuará até que não apareçam mais\ncombinações vencedoras como resultado de uma queda. Não há limite\npara o número de tombos possíveis.",
+      "tf2": "Todos os ganhos são adicionados ao saldo do jogador\n  depois que todas as combinações vencedoras resultantes\nde um giro básico tiverem sido jogadas.",
+      "tf3": "Esses são os símbolos multiplicadores. Eles estão\npresentes em todos os carretéis e podem ser atingidos\naleatoriamente durante as rodadas e os giros, tanto no jogo\nbase quanto nas rodadas grátis",
+      "tf4": "Sempre que um símbolo MULTIPLICADOR é atingido,\nele recebe um valor multiplicador aleatório de\n 2x, 3x, 4x, 5x, 6x, 8x, 10x, 12x, 15x, 20x, \n25x, 50x, 100x, 250x ou 500x.",
+      "tf5": "Quando a sequência de tombos termina, os valores\n de todos os símbolos MULTIPLICADORES na tela são\n somados e o ganho total da sequência é multiplicado pelo\n valor final."
+    },
+    "page3": {
+      "title": "REGRAS DE RODADAS GRÁTIS",
+      "tf0": "O RECURSO FREESPIN é concedido quando 4 ou mais\nsímbolos SCATTER atingem qualquer lugar na tela.\nA rodada começa com 15 rodadas grátis.",
+      "tf1": "Durante a rodada de GIROS GRATUITOS, sempre que\num símbolo MULTIPLICADOR for atingido e a rodada\n resultar em uma vitória, o valor do MULTIPLICADOR\n será adicionado ao multiplicador total.\nDurante toda a duração da rodada,sempre que\n qualquer novo símbolo MULTIPLICADOR for atingido\n e resultar em uma vitória, o valor total do multiplicador\n também será usado para multiplicar a vitória.",
+      "tf2": "Quando 3 ou mais símbolos SCATTER são\n atingidos durante a RODADA DE GIRO GRATUITO,\n 5 giros grátis adicionais são concedidos.",
+      "tf3": "ANTE BET",
+      "tf4": "O jogador tem a opção de selecionar o valor\nda aposta em 9625, aumentando a aposta por\n linha em 25x. Jogar com uma aposta ante ativa \naumenta as chances de pegar símbolos de dispersão.",
+      "tf5": "RECURSO DE COMPRA",
+      "tf6": "A RODADA DE GIROS GRÁTIS pode ser acionada instantaneamente\na partir do jogo base comprando-a por 100x da aposta total atual.\nQuando o recurso de aposta ante 25x está habilitado,\no recurso COMPRAR GIROS GRÁTIS é desabilitado"
+    },
+    "page4": {
+      "title": "REGRAS DO JOGO",
+      "tf0": "Os jogos de alta volatilidade pagam com menos\nfrequência, em média, mas a chance de obter grandes\nvitórias em um curto período de tempo é maior.",
+      "tf1": "Os símbolos pagam em qualquer lugar. Todos\nos ganhos são multiplicados pela aposta base.",
+      "tf2": "Todos os valores são expressos como vento\n real em moedas.",
+      "tf3": "Ao ganhar com vários símbolos, todos os\n ganhos são adicionados ao ganho total.",
+      "tf4": "As rodadas grátis são concedidas ao jogador\napós o término da rodada. O ganho total de Free spins\n passados inclui o ganho total da série.",
+      "tf5": "O RTP teórico deste jogo é de 96,5%.\nAo usar \"ANTE BET\", o RTP do jogo é de 96,5%.\nAo usar \"COMPRAR GIROS GRÁTIS\", o RTP do jogo é de 96,5%.",
+      "tf6": "APOSTA MÍNIMA: $0.20 \nA APOSTA MÁXIMA: $125.00",
+      "tf7": "Qualquer mau funcionamento anula todos os \npagamentos e jogadas."
+    },
+    "page5": {
+      "title": "COMO JOGAR",
+      "tf0": "Clique no",
+      "textCombined1": {
+        "icon1": "minusButton",
+        "part1": "ou",
+        "icon2": "plusButton",
+        "part2": "botões para alterar o valor da aposta e abrir\n o menu de apostas"
+      },
+      "tf1": "Selecione a aposta que você deseja usar no jogo.",
+      "tf2": "INTERFACE PRINCIPAL DO JOGO",
+      "textCombined2": {
+        "icon1": "settn_icons",
+        "part1": " Abre o menu SETTINGS que contém configurações\n que afetam a forma como o jogo está\n sendo jogado."
+      },
+      "tf3": "",
+      "textCombined3": {
+        "icon1": "info_btn",
+        "part1": "Abre a página de informações"
+      },
+      "tf4": "Os rótulos CREDIT e BET exibem o saldo atual e a aposta\n total.Clique nos rótulos para alternar entre a visualização\n  de token e a visualização de dinheiro.",
+      "textCombined4": {
+        "icon1": "minusButton",
+        "part1": "ou",
+        "icon2": "plusButton",
+        "part2": "Você pode usar os botões para aumentar"
+      },
+      "tf5": "ou diminuir a aposta atual e fazer ajustes na aposta e\n abrir o menu de apostas onde você pode fazer\nalterações em suas apostas.",
+      "tf6": "Você pode usar os botões para mover a aposta atual\n  para cima ou para baixo e abrir o menu de apostas,\nonde você pode alterar as alocações de apostas.",
+      "tf7": "",
+      "textCombined5": {
+        "icon1": "minusButton",
+        "part1": "Inicia o jogo"
+      }
+    },
+    "page6": {
+      "title": "MENU DE CONFIGURAÇÕES",
+      "tf0": "INTRO SCREEN (Tela de introdução) - ativa e desativa\n  a tela de introdução AMBIENCE (Ambiente) - ativa e\n  desativa o  som ambiente e a música do jogo SOUND EFFECTS\n(Efeitos sonoros)- ativa e desativa os efeitos sonoros do\njogo GAME HISTORY(Histórico do jogo)  - abre a página\n  de histórico do jogo",
+      "tf1": "TELA DE INFORMAÇÕES",
+      "textCombined1": {
+        "icon1": "minusButton",
+        "part1": "e",
+        "icon2": "plusButton",
+        "part2": "rolar entre as páginas de informações"
+      },
+      "tf2": "MENU DE APOSTAS",
+      "tf3": "O menu de apostas mostra o multiplicador\n de apostas disponível no jogo e a aposta\n total atual em moedas e dinheiro",
+      "tf4": "Campos COIN VALUE para alterar os valores.",
+      "textCombined2": {
+        "part1": "Use o",
+        "icon1": "minusButton",
+        "part2": "e",
+        "icon2": "plusButton",
+        "part3": "botões no BET e\n"
+      },
+      "tf5": "O valor máximo do prêmio é limitado a 5.000 vezes a\n aposta",
+      "tf6": "Uma rodada rende até 4 DP,\ne todos os recursos restantes são perdidos.",
+      "tf7": "REPRODUÇÃO AUTOMÁTICA",
+      "tf8": "Clique nos botões que mostram o número de giros\nautomáticos possíveis para iniciar a reprodução automática\nA opção PULAR TELA gira automaticamente as telas de\nintrodução e fim do recurso após um curto período de tempo"
+    }
+  },
+  "paytableDesktop": {
+    "page1": {
+      "title": "REGRAS DO JOGO",
+      "tf0": "Os símbolos pagam em qualquer lugar da tela. \n número total do mesmo símbolo na tela no final de uma rodada determina o valor do prêmio.",
+      "item2": "Este é o símbolo SCATTER.\nO símbolo SCATTER está presente em todos os cilindros.\nSCATTER paga em qualquer posição"
+    },
+    "page2": {
+      "title": "RECURSO DE TOMBO",
+      "tf0": "O recurso TUMBLE significa que, após cada rodada,as combinações vencedoras são pagas e todos os símbolos vencedores desaparecem.\n Os símbolos restantes caem na parte inferior da tela e as posições vazias são substituídas por símbolos vindos de cima.",
+      "tf1": "O tombo continuará até que não apareçam mais combinações vencedoras como resultado de um tombo. Não há limite para o número\n  de tombos possíveis.",
+      "tf2": "Todos os ganhos são adicionados ao saldo do jogador depois que todos os tombos resultantes de um giro básico tiverem sido jogados",
+      "tf3": "Esses são os símbolos multiplicadores. Eles estão presentes em todos os cilindros e podem ser atingidos aleatoriamente durante os\n  giros e tombos, tanto no jogo base quanto nas rodadas grátis.",
+      "tf4": "Sempre que um símbolo MULTIPLICADOR é atingido, ele recebe um valor multiplicador aleatório de 2x, 3x, 4x, 5x, 6x, 8x, 10x, 12x, 15x, 20x, \n25x, 50x, 100x, 250x ou 500x.",
+      "tf5": "Quando a sequência de tombos termina, os valores de todos os símbolos MULTIPLIER na tela são somados\n e o ganho total da sequência é multiplicado pelo valor final."
+    },
+    "page3": {
+      "title": "REGRAS DO FREESPIN",
+      "tf0": "O recurso FREESPIN é concedido quando 4 ou mais símbolos SCATTER são atingidos em qualquer lugar da tela. \n rodada começa com 15 giros grátis.",
+      "tf1": "Durante a rodada de GIROS GRATUITOS, sempre que um símbolo MULTIPLICADOR for atingido e o giro resultar em uma vitória,\no valor do MULTIPLICADOR será adicionado ao multiplicador total. Durante toda a duração da rodada,sempre que qualquer novo\n símbolo MULTIPLICADOR aparecer e resultar em um prêmio,o valor total do multiplicador também será usado para multiplicar o prêmio.",
+      "tf2": "Quando 3 ou mais símbolos SCATTER são atingidos durante a RODADA DE GIRO GRATUITO, 5 giros grátis adicionais são concedidos. \ns carretéis especiais estão em jogo durante a RODADA DE GIRO GRATUITO",
+      "tf3": "ANTE APOSTA",
+      "tf4": "O jogador tem a opção de selecionar o valor da aposta em 9625, aumentando a aposta por linha em 25x. Jogar com uma aposta ativa\nante aumenta as chances de pegar símbolos Scatter.",
+      "tf5": "RECURSO DE COMPRA",
+      "tf6": "A RODADA DE GIROS GRÁTIS pode ser acionada instantaneamente\na partir do jogo base comprando-a por 100x da aposta total atual.\nQuando o recurso de aposta ante 25x está habilitado,\no recurso COMPRAR GIROS GRÁTIS é desabilitado"
+    },
+    "page4": {
+      "title": "REGRAS DO JOGO",
+      "tf0": "Os jogos de alta volatilidade pagam com menos frequência, em média, mas a chance de obter grandes vitórias em\n  um curto período de tempo é maior.",
+      "tf1": "Os símbolos pagam em qualquer lugar. Todos os ganhos são multiplicados pela aposta básica.",
+      "tf2": "Todos os valores são expressos como vento real em moedas. ",
+      "tf3": "Ao ganhar com múltiplos símbolos, todos os ganhos são adicionados ao ganho total.",
+      "tf4": "As rodadas grátis são concedidas ao jogador após a conclusão da rodada.\nO ganho total das rodadas grátis anteriores\n  inclui o ganho total da série.",
+      "tf5": "O RTP teórico deste jogo é de 96,5%.\nAo usar \"ANTE BET\", o RTP do jogo é de 96,5%.\nAo usar \"COMPRAR GIROS GRÁTIS\", o RTP do jogo é de 96,5%.",
+      "tf6": "APOSTA MÍNIMA: $0.20 \nA APOSTA MÁXIMA: $125.00",
+      "tf7": "Qualquer mau funcionamento anula todos os pagamentos e jogadas."
+    },
+    "page5": {
+      "title": "COMO JOGAR",
+      "textCombined1": {
+        "part1": "Clique no",
+        "icon1": "minusButton",
+        "part2": "ou",
+        "icon2": "plusButton",
+        "part3": "botões para alterar o valor da aposta e abrir o menu de apostas"
+      },
+      "tf0": "Selecione a aposta que você deseja usar no jogo.",
+      "tf1": "INTERFACE PRINCIPAL DO JOGO",
+      "textCombined2": {
+        "icon1": "settn_icons",
+        "part1": " Abre o menu SETTINGS que contém configurações que afetam a maneira como o jogo está sendo jogado."
+      },
+      "textCombined3": {
+        "icon1": "info_btn",
+        "part1": "Abre a página de informações"
+      },
+      "tf2": "Os rótulos CREDIT e BET exibem o saldo atual e a aposta total. \nClique nos rótulos para alternar entre a visualização de fichas e a visualização de dinheiro.",
+      "textCombined4": {
+        "icon1": "minusButton",
+        "part1": "ou",
+        "icon2": "plusButton",
+        "part2": "Você pode usar os botões para aumentar ou diminuir a aposta atual e fazer ajustes na aposta e"
+      },
+      "tf3": "abra o menu de apostas onde você pode fazer alterações em suas apostas",
+      "tf4": "Você pode usar os botões para mover a aposta atual para cima ou para baixo e abrir o menu de apostas,\n onde você pode alterar as alocações de apostas",
+      "textCombined5": {
+        "icon1": "minusButton",
+        "part1": "Inicia o jogo"
+      }
+    },
+    "page6": {
+      "title": "MENU DE CONFIGURAÇÕES",
+      "tf0": "INTRO SCREEN (Tela de introdução) - ativa e desativa a tela de introdução\nAMBIENCE (Ambiente) - ativa e desativa o som ambiente e a música do jogo\nSOUND EFFECTS (Efeitos sonoros) - ativa e desativa os efeitos sonoros do jogo\nGAME HISTORY (Histórico do jogo) - abre a página de histórico do jogo",
+      "tf1": "TELA DE INFORMAÇÕES",
+      "textCombined1": {
+        "icon1": "minusButton",
+        "part1": "e",
+        "icon2": "plusButton",
+        "part2": "rolar entre as páginas de informações"
+      },
+      "tf2": "MENU DE APOSTAS",
+      "tf3": "O menu de apostas mostra o multiplicador de apostas disponível no jogo e a aposta total atual em moedas e dinheiro",
+      "textCombined2": {
+        "part1": "Use o",
+        "icon1": "minusButton",
+        "part2": "e",
+        "icon2": "plusButton",
+        "part3": "botões nos campos BET e COIN VALUE para alterar os valores"
+      },
+      "tf4": "O valor máximo do prêmio é limitado a 5.000 vezes a aposta.",
+      "tf5": "Uma rodada rende até 4 DP, e todos os recursos restantes são perdidos.",
+      "tf6": "REPRODUÇÃO AUTOMÁTICA",
+      "tf7": "Clique nos botões que mostram o número de giros automáticos possíveis para iniciar a reprodução automática\nA opção PULAR TELA gira automaticamente as telas de introdução e fim do recurso após um curto período de tempo"
+    }
+  },
+  "systemSettings": {
+    "title": "CONFIGURAÇÕES DO SISTEMA",
+    "switchModule": {
+      "switch_module_1": {
+        "tf": "QUICK SPIN",
+        "desc": "JOGUE MAIS RAPIDAMENTE REDUZINDO\nO TEMPO TOTAL DE GIRO"
+      },
+      "switch_module_2": {
+        "tf": "ECONOMIA DE BATERIA",
+        "desc": "Economize a vida útil da bateria ao reduzir a velocidade de animação"
+      },
+      "switch_module_3": {
+        "tf": "MÚSICA AMBIENTE",
+        "desc": "LIGUE OU DESLIGUE O JOGO\nMÚSICA"
+      },
+      "switch_module_4": {
+        "tf": "TELA DE INTRODUÇÃO",
+        "desc": "TELA DE INTRODUÇÃO"
+      },
+      "switch_module_5": {
+        "tf": "TELA DE INTRODUÇÃO",
+        "desc": "TELA DE INTRODUÇÃO"
+      }
+    },
+    "betSettings": {
+      "tfTotalBet": "APOSTA TOTAL"
+    },
+    "linkModule": {
+      "tfGameHistory": "HISTÓRICO DO JOGO",
+      "tfHome": "HOME"
+    },
+    "tfSettings": "CONFIGURAÇÕES GERAIS",
+    "tfBetSettings": "CONFIGURAÇÕES DE APOSTAS"
+  },
+  "adjustBet": {
+    "title": "MULTIPLICADOR DE APOSTAS\n 20X",
+    "tfBet": "BET",
+    "tfCoinValue": "VALOR DA MOEDA",
+    "tfTotalBet": "APOSTA TOTAL",
+    "btnMax": "APOSTA MÁXIMA",
+    "btnMin": "APOSTA MÍNIMA",
+    "btnConfirm": "CONFIRMAR"
+  },
+  "history": {
+    "title": "HISTÓRICO",
+    "tfdate": "DATE",
+    "tftotalBet": "APOSTA TOTAL",
+    "tfwin": "WIN",
+    "tfbalance": "SALDO",
+    "nohistoryentries": "Nenhuma entrada de histórico",
+    "tfbetId": "BET ID"
+  },
+  "autoSpin": {
+    "title": "CONFIGURAÇÕES DE AUTOSPIN",
+    "tfNumber": "NÚMERO DE GIROS",
+    "tfStop": "STOP AUTOSPIN",
+    "tfCheckbox1": "Em qualquer vitória",
+    "tfCheckbox2": "Se o jogo de bônus for ganho",
+    "tfCheckbox3": "Se um único prêmio for excedido",
+    "tfCheckbox4": "Se o saldo de caixa aumentar em",
+    "tfCheckbox5": "Se o saldo de caixa diminuir",
+    "tfConfirm": "CONFIRMAR",
+    "tfStartAutoPlay": "INICIAR REPRODUÇÃO AUTOMÁTICA",
+    "tfSkipScreen": "PULAR TELA",
+    "tfHeading": "CONFIGURAÇÕES DE REPRODUÇÃO AUTOMÁTICA",
+    "tfTurboSpin": "GIRO TURBO",
+    "tfQuickSpin": "GIRO RÁPIDO",
+    "tfSkipSpin": "GIRO SUPER",
+    "tfMin": "MÍN",
+    "tfMax": "MÁX"
+  },
+  "freeSpins": {
+    "buy": "COMPRAR\nRECURSO",
+    "left": "FREE SPINS\nLEFT"
+  },
+  "doubleChance": {
+    "bet": "APOSTA",
+    "double": "DOUBLE",
+    "description": "CHANCE DE\nGANHAR RECURSO",
+    "doubleChance": "CHANCE DUPLA",
+    "toWinFeature": "PARA GANHAR RECURSO"
+  },
+  "tfWinUpTo": "GANHE ATÉ 5000 X APOSTA",
+  "tfGoodLuck": "GOOD LUCK (BOA SORTE)",
+  "tfWin": "VITÓRIA:",
+  "tfDesktopWin": "VITÓRIA",
+  "tfBet": "APOSTA",
+  "tfBalance": "SALDO",
+  "tfHoldSpace": "SEGURE ESPAÇO PARA GIRO TURBO",
+  "noBalance": {
+    "title": "SALDO INSUFICIENTE",
+    "msg": "Adicione dinheiro ao seu saldo",
+    "add": "ADICIONAR"
+  },
+  "loseConnection": {
+    "title": "ERRO",
+    "msg": "A conexão com a rede foi perdida"
+  },
+  "min": "MÍN",
+  "max": "MÁX",
+  "tfpressanywhereto": "PRESSIONE QUALQUER LUGAR PARA CONTINUAR",
+  "tfFreeSpin": "GIRO GRÁTIS",
+  "tfYouHaveWon": "VOCÊ TEM",
+  "tfIn15FreeSpins": "EM 15 GIROS GRÁTIS",
+  "tfstart": "INICIAR",
+  "tfDonotShowAgain": "NÃO MOSTRAR NOVAMENTE"
+}

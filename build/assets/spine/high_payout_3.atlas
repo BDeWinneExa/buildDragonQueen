@@ -1,0 +1,148 @@
+high_payout_3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.6
+destroy/high_payEff_ (1)
+	bounds: 2, 1116, 189, 160
+destroy/high_payEff_ (10)
+	bounds: 679, 1880, 189, 160
+destroy/high_payEff_ (11)
+	bounds: 2, 954, 189, 160
+destroy/high_payEff_ (12)
+	bounds: 870, 1880, 189, 160
+destroy/high_payEff_ (2)
+	bounds: 2, 792, 189, 160
+destroy/high_payEff_ (3)
+	bounds: 1061, 1880, 189, 160
+destroy/high_payEff_ (4)
+	bounds: 2, 630, 189, 160
+high_payEff_ (4)
+	bounds: 2, 630, 189, 160
+destroy/high_payEff_ (5)
+	bounds: 1252, 1880, 189, 160
+destroy/high_payEff_ (6)
+	bounds: 2, 468, 189, 160
+destroy/high_payEff_ (7)
+	bounds: 1443, 1880, 189, 160
+destroy/high_payEff_ (8)
+	bounds: 2, 306, 189, 160
+destroy/high_payEff_ (9)
+	bounds: 1634, 1880, 189, 160
+effect/dragonqueen_eff_00
+	bounds: 2, 184, 120, 120
+effect/dragonqueen_eff_01
+	bounds: 1825, 1920, 120, 120
+effect/dragonqueen_eff_02
+	bounds: 2, 62, 120, 120
+effect/dragonqueen_eff_03
+	bounds: 124, 184, 120, 120
+effect/dragonqueen_eff_04
+	bounds: 124, 62, 120, 120
+effect/dragonqueen_eff_05
+	bounds: 1825, 1798, 120, 120
+effect/dragonqueen_eff_06
+	bounds: 217, 1650, 120, 120
+effect/dragonqueen_eff_07
+	bounds: 217, 1528, 120, 120
+effect/dragonqueen_eff_08
+	bounds: 217, 1406, 120, 120
+effect/dragonqueen_eff_09
+	bounds: 217, 1284, 120, 120
+effect/dragonqueen_eff_10
+	bounds: 339, 1673, 120, 120
+effect/dragonqueen_eff_11
+	bounds: 339, 1551, 120, 120
+effect/dragonqueen_eff_12
+	bounds: 339, 1429, 120, 120
+effect/dragonqueen_eff_13
+	bounds: 339, 1307, 120, 120
+effect/dragonqueen_eff_14
+	bounds: 487, 1726, 120, 120
+effect/dragonqueen_eff_15
+	bounds: 461, 1604, 120, 120
+effect/dragonqueen_eff_16
+	bounds: 461, 1482, 120, 120
+effect/dragonqueen_eff_17
+	bounds: 461, 1360, 120, 120
+effect/dragonqueen_eff_18
+	bounds: 609, 1726, 120, 120
+effect/dragonqueen_eff_19
+	bounds: 583, 1604, 120, 120
+effect/dragonqueen_eff_20
+	bounds: 583, 1482, 120, 120
+effect/dragonqueen_eff_21
+	bounds: 583, 1360, 120, 120
+eye_1
+	bounds: 2, 1525, 213, 245
+eye_gler
+	bounds: 1466, 1735, 59, 38
+eyelid
+	bounds: 2, 2, 74, 58
+fire/Torch_0
+	bounds: 1947, 1798, 76, 103
+fire/Torch_1
+	bounds: 461, 1282, 76, 103
+	rotate: 90
+fire/Torch_10
+	bounds: 566, 1282, 76, 103
+	rotate: 90
+fire/Torch_11
+	bounds: 731, 1775, 76, 103
+fire/Torch_12
+	bounds: 809, 1775, 76, 103
+fire/Torch_13
+	bounds: 887, 1775, 76, 103
+fire/Torch_14
+	bounds: 965, 1775, 76, 103
+fire/Torch_15
+	bounds: 1043, 1775, 76, 103
+fire/Torch_16
+	bounds: 1121, 1775, 76, 103
+fire/Torch_17
+	bounds: 1199, 1775, 76, 103
+fire/Torch_18
+	bounds: 1277, 1775, 76, 103
+fire/Torch_19
+	bounds: 1355, 1775, 76, 103
+fire/Torch_2
+	bounds: 1433, 1775, 76, 103
+fire/Torch_20
+	bounds: 1511, 1775, 76, 103
+fire/Torch_21
+	bounds: 1589, 1775, 76, 103
+fire/Torch_22
+	bounds: 1667, 1775, 76, 103
+fire/Torch_23
+	bounds: 1745, 1775, 76, 103
+fire/Torch_3
+	bounds: 731, 1697, 76, 103
+	rotate: 90
+fire/Torch_4
+	bounds: 836, 1697, 76, 103
+	rotate: 90
+fire/Torch_5
+	bounds: 941, 1697, 76, 103
+	rotate: 90
+fire/Torch_6
+	bounds: 1046, 1697, 76, 103
+	rotate: 90
+fire/Torch_7
+	bounds: 1151, 1697, 76, 103
+	rotate: 90
+fire/Torch_8
+	bounds: 1256, 1697, 76, 103
+	rotate: 90
+fire/Torch_9
+	bounds: 1361, 1697, 76, 103
+	rotate: 90
+glow
+	bounds: 2, 1772, 268, 268
+particle_group
+	bounds: 1947, 1903, 137, 91
+	rotate: 90
+ring
+	bounds: 272, 1795, 213, 245
+ring_2
+	bounds: 2, 1278, 213, 245
+wave
+	bounds: 487, 1848, 190, 192

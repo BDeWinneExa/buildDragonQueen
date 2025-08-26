@@ -1,0 +1,129 @@
+{
+    "layout": {
+        "children": [
+            {
+                "children": [
+                    {
+                      "cls":"starling.display.MovieClip",
+                      "constructorParams":[
+                        
+                      ],
+                      "customParams":{},
+                      "params":{
+                        "fps":30,
+                        "name":"loadingStartAnimation",
+                        "x":575,
+                        "y":968,
+                        "scaleX":1,
+                        "scaleY":1
+                      }
+                    },
+                    {
+                      "cls":"starling.display.MovieClip",
+                      "constructorParams":[
+                        
+                      ],
+                      "customParams":{},
+                      "params":{
+                        "fps":30,
+                        "name":"loadingProgressAnimation",
+                        "x":575,
+                        "y":968,
+                        "scaleX":1,
+                        "scaleY":1
+                      }
+                    },
+                    {
+                      "cls":"starling.display.MovieClip",
+                      "constructorParams":[
+                        
+                      ],
+                      "customParams":{},
+                      "params":{
+                        "fps":30,
+                        "name":"loadingEndAnimation",
+                        "x":575,
+                        "y":968,
+                        "scaleX":1,
+                        "scaleY":1
+                      }
+                    }
+                ],
+                "cls": "starling.display.Sprite",
+                "customParams": {},
+                "params": {
+                    "name": "vertical"
+                }
+            },
+            {
+                "children": [
+                    {
+                      "cls":"starling.display.MovieClip",
+                      "constructorParams":[
+                        
+                      ],
+                      "customParams":{},
+                      "params":{
+                        "fps":30,
+                        "name":"loadingStartAnimation",
+                        "x":1000,
+                        "y":540
+                      }
+                    },
+                    {
+                      "cls":"starling.display.MovieClip",
+                      "constructorParams":[
+                        
+                      ],
+                      "customParams":{},
+                      "params":{
+                        "fps":30,
+                        "name":"loadingProgressAnimation",
+                        "x":1000,
+                        "y":540
+                      }
+                    },
+                    {
+                      "cls":"starling.display.MovieClip",
+                      "constructorParams":[
+                        
+                      ],
+                      "customParams":{},
+                      "params":{
+                        "fps":30,
+                        "name":"loadingEndAnimation",
+                        "x":1000,
+                        "y":540
+                      }
+                    }
+                ],
+                "cls": "starling.display.Sprite",
+                "customParams": {},
+                "params": {
+                    "name": "horizontal"
+                }
+            }
+        ],
+        "cls": "starling.display.Sprite",
+        "customParams": {},
+        "params": {
+            "name": "intro-screen"
+        },
+        "tweenData": {
+            "layouts": [
+                "horizontal",
+                "vertical"
+            ]
+        }
+    },
+    "setting": {
+        "canvasColor": 0,
+        "canvasSize": {
+            "x": 1920,
+            "y": 1920
+        },
+        "hidden": "0010100",
+        "lock": "0000100"
+    },
+    "version": "2.0"
+}

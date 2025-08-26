@@ -1,0 +1,72 @@
+background.webp
+	size: 2164, 2164
+	filter: Linear, Linear
+11_smoke_000
+	bounds: 1924, 2094, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_001
+	bounds: 1924, 2026, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_002
+	bounds: 2024, 2094, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_003
+	bounds: 1924, 1958, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_004
+	bounds: 2024, 2026, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_005
+	bounds: 1924, 1890, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_006
+	bounds: 2024, 1958, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_007
+	bounds: 1924, 1822, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_008
+	bounds: 2024, 1890, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_009
+	bounds: 1924, 1754, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_010
+	bounds: 2024, 1822, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_011
+	bounds: 1924, 1686, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_012
+	bounds: 2024, 1754, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_013
+	bounds: 1924, 1618, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_014
+	bounds: 2024, 1686, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_015
+	bounds: 1924, 1550, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_016
+	bounds: 2024, 1618, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_017
+	bounds: 1924, 1482, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_018
+	bounds: 2024, 1550, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_019
+	bounds: 1924, 1414, 98, 66
+	offsets: 53, 134, 200, 200
+11_smoke_020
+	bounds: 2024, 1482, 98, 66
+	offsets: 53, 134, 200, 200
+background1
+	bounds: 2, 1080, 1920, 1080
+	offsets: 1, 1, 1922, 1082
+background2
+	bounds: 2, 2, 1920, 1076
+	offsets: 0, 1, 1920, 1077

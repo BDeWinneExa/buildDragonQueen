@@ -1,0 +1,15 @@
+real_background_chain.png
+size:770,203
+filter:Linear,Linear
+pma:true
+l_chain 1
+bounds:430,13,188,170
+rotate:90
+l_chain 2
+bounds:2,2,244,199
+offsets:0,0,267,199
+r_chain 1
+bounds:248,4,197,180
+rotate:90
+r_chain 2
+bounds:602,34,166,167

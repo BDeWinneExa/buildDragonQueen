@@ -1,0 +1,150 @@
+transition.webp
+	size: 3056, 3056
+	filter: Linear, Linear
+Layer 11
+	bounds: 2721, 2876, 178, 333
+	offsets: 904, 232, 1082, 1922
+	rotate: 90
+Layer 12
+	bounds: 2304, 770, 178, 372
+	offsets: 904, 613, 1082, 1922
+Layer 18
+	bounds: 2721, 2524, 350, 284
+	offsets: 0, 0, 1082, 1922
+	rotate: 90
+Layer 20
+	bounds: 2017, 635, 120, 495
+	offsets: 0, 581, 1082, 1922
+Layer 22
+	bounds: 2170, 1953, 519, 551
+	offsets: 449, 818, 1082, 1922
+Layer 23
+	bounds: 2170, 2506, 549, 548
+	offsets: 372, 226, 1082, 1922
+Layer 24
+	bounds: 1774, 48, 376, 441
+	offsets: 97, 806, 1082, 1922
+	rotate: 90
+Layer 25
+	bounds: 2783, 858, 243, 284
+	offsets: 0, 293, 1082, 1922
+Layer 26
+	bounds: 2691, 2101, 205, 403
+	offsets: 252, 309, 1082, 1922
+Layer 27
+	bounds: 2739, 281, 212, 177
+	offsets: 276, 638, 1082, 1922
+Layer 28
+	bounds: 2446, 174, 167, 180
+	offsets: 92, 604, 1082, 1922
+Layer 29
+	bounds: 2170, 1275, 227, 676
+	offsets: 0, 1093, 1082, 1922
+Layer 3
+	bounds: 2, 48, 1082, 1770
+	offsets: 0, 152, 1082, 1922
+	rotate: 90
+Layer 30
+	bounds: 2776, 661, 195, 257
+	offsets: 887, 1200, 1082, 1922
+	rotate: 90
+Layer 32
+	bounds: 2484, 875, 297, 267
+	offsets: 244, 1262, 1082, 1922
+Layer 34
+	bounds: 2304, 675, 93, 178
+	offsets: 989, 1016, 1082, 1922
+	rotate: 90
+Layer 35
+	bounds: 2484, 688, 185, 290
+	offsets: 897, 1568, 1082, 1922
+	rotate: 90
+Layer 36
+	bounds: 2739, 460, 285, 199
+	offsets: 0, 1723, 1082, 1922
+Layer 37
+	bounds: 2217, 67, 75, 230
+	offsets: 1007, 0, 1082, 1922
+	rotate: 90
+Layer 38
+	bounds: 2399, 1263, 688, 197
+	offsets: 319, 0, 1082, 1922
+	rotate: 90
+Layer 39
+	bounds: 2139, 665, 29, 19
+	offsets: 1053, 1903, 1082, 1922
+Layer 4
+	bounds: 2, 1132, 1082, 1922
+Layer 40
+	bounds: 1774, 426, 704, 241
+	offsets: 312, 1681, 1082, 1922
+	rotate: 90
+Layer 45
+	bounds: 2836, 200, 79, 92
+	offsets: 192, 520, 1082, 1922
+	rotate: 90
+Layer 46
+	bounds: 3007, 2792, 38, 82
+	offsets: 1044, 1471, 1082, 1922
+Layer 50
+	bounds: 2720, 192, 114, 87
+	offsets: 886, 140, 1082, 1922
+Layer 51
+	bounds: 2691, 2015, 194, 84
+	offsets: 101, 276, 1082, 1922
+Layer 52
+	bounds: 2898, 1985, 163, 156
+	offsets: 919, 470, 1082, 1922
+	rotate: 90
+Layer 53
+	bounds: 2487, 362, 248, 74
+	offsets: 463, 732, 1082, 1922
+Layer 54
+	bounds: 2953, 300, 158, 87
+	offsets: 360, 805, 1082, 1922
+	rotate: 90
+Layer 55
+	bounds: 2619, 88, 99, 103
+	offsets: 221, 718, 1082, 1922
+Layer 56
+	bounds: 2615, 193, 103, 167
+	offsets: 104, 737, 1082, 1922
+Layer 57
+	bounds: 2449, 18, 168, 154
+	offsets: 908, 848, 1082, 1922
+Layer 59
+	bounds: 2720, 90, 89, 100
+	offsets: 993, 1822, 1082, 1922
+Layer 61
+	bounds: 2260, 356, 225, 317
+	offsets: 439, 1405, 1082, 1922
+Layer 62
+	bounds: 2170, 1147, 157, 126
+	offsets: 328, 1162, 1082, 1922
+Layer 63
+	bounds: 2017, 432, 201, 241
+	offsets: 109, 1122, 1082, 1922
+	rotate: 90
+Layer 64
+	bounds: 2217, 144, 227, 210
+	offsets: 97, 1712, 1082, 1922
+Layer 65
+	bounds: 1086, 1132, 1082, 1922
+Layer 8
+	bounds: 2487, 438, 250, 248
+	offsets: 256, 1552, 1082, 1922
+Layer 9
+	bounds: 2598, 1500, 451, 374
+	offsets: 563, 1363, 1082, 1922
+	rotate: 90
+dragon
+	bounds: 2139, 686, 444, 163
+	offsets: 1, 1, 446, 165
+	rotate: 90
+queen
+	bounds: 2898, 2150, 372, 115
+	offsets: 1, 1, 374, 117
+	rotate: 90
+volcano
+	bounds: 2598, 1144, 446, 354
+	offsets: 1, 1, 448, 356

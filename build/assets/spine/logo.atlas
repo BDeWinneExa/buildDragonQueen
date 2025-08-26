@@ -1,0 +1,126 @@
+logo.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+11_smoke_000
+	bounds: 452, 1585, 200, 200
+11_smoke_001
+	bounds: 654, 1585, 200, 200
+11_smoke_002
+	bounds: 856, 1585, 200, 200
+11_smoke_003
+	bounds: 1058, 1585, 200, 200
+11_smoke_004
+	bounds: 1260, 1585, 200, 200
+11_smoke_005
+	bounds: 1462, 1585, 200, 200
+11_smoke_006
+	bounds: 1664, 1585, 200, 200
+11_smoke_007
+	bounds: 373, 1312, 200, 200
+11_smoke_008
+	bounds: 575, 1383, 200, 200
+11_smoke_009
+	bounds: 777, 1383, 200, 200
+11_smoke_010
+	bounds: 979, 1383, 200, 200
+11_smoke_011
+	bounds: 1181, 1383, 200, 200
+11_smoke_012
+	bounds: 1383, 1383, 200, 200
+11_smoke_013
+	bounds: 1585, 1383, 200, 200
+11_smoke_014
+	bounds: 1787, 1383, 200, 200
+11_smoke_015
+	bounds: 575, 1181, 200, 200
+11_smoke_016
+	bounds: 777, 1181, 200, 200
+11_smoke_017
+	bounds: 979, 1181, 200, 200
+11_smoke_018
+	bounds: 1181, 1181, 200, 200
+11_smoke_019
+	bounds: 1383, 1181, 200, 200
+11_smoke_020
+	bounds: 1585, 1181, 200, 200
+dragon
+	bounds: 2, 1514, 446, 165
+fire_00
+	bounds: 452, 1787, 250, 250
+fire_01
+	bounds: 2, 1262, 250, 250
+fire_02
+	bounds: 704, 1787, 250, 250
+fire_03
+	bounds: 2, 1010, 250, 250
+fire_04
+	bounds: 956, 1787, 250, 250
+fire_05
+	bounds: 2, 758, 250, 250
+fire_06
+	bounds: 1208, 1787, 250, 250
+fire_07
+	bounds: 2, 506, 250, 250
+fire_08
+	bounds: 1460, 1787, 250, 250
+fire_09
+	bounds: 2, 254, 250, 250
+fire_10
+	bounds: 1712, 1787, 250, 250
+fire_11
+	bounds: 2, 2, 250, 250
+fire_12
+	bounds: 254, 886, 250, 250
+fire_13
+	bounds: 254, 634, 250, 250
+fire_14
+	bounds: 254, 382, 250, 250
+fire_15
+	bounds: 254, 130, 250, 250
+part_00
+	bounds: 1787, 1181, 200, 200
+part_01
+	bounds: 506, 979, 200, 200
+part_02
+	bounds: 506, 777, 200, 200
+part_03
+	bounds: 708, 979, 200, 200
+part_04
+	bounds: 506, 575, 200, 200
+part_05
+	bounds: 708, 777, 200, 200
+part_06
+	bounds: 910, 979, 200, 200
+part_07
+	bounds: 506, 373, 200, 200
+part_08
+	bounds: 708, 575, 200, 200
+part_09
+	bounds: 910, 777, 200, 200
+part_10
+	bounds: 1112, 979, 200, 200
+part_11
+	bounds: 506, 171, 200, 200
+part_12
+	bounds: 708, 373, 200, 200
+part_13
+	bounds: 910, 575, 200, 200
+part_14
+	bounds: 1112, 777, 200, 200
+part_15
+	bounds: 1314, 979, 200, 200
+part_16
+	bounds: 708, 171, 200, 200
+part_17
+	bounds: 910, 373, 200, 200
+part_18
+	bounds: 1112, 575, 200, 200
+part_19
+	bounds: 1314, 777, 200, 200
+part_20
+	bounds: 1516, 979, 200, 200
+queen
+	bounds: 254, 1138, 374, 117
+	rotate: 90
+volcano
+	bounds: 2, 1681, 448, 356

@@ -1,0 +1,33 @@
+frame_win.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+BorderEffect_00
+	bounds: 2, 1210, 300, 300
+BorderEffect_01
+	bounds: 2, 908, 300, 300
+BorderEffect_02
+	bounds: 304, 1210, 300, 300
+BorderEffect_03
+	bounds: 2, 606, 300, 300
+BorderEffect_04
+	bounds: 304, 908, 300, 300
+BorderEffect_05
+	bounds: 606, 1210, 300, 300
+BorderEffect_06
+	bounds: 2, 304, 300, 300
+BorderEffect_07
+	bounds: 304, 606, 300, 300
+BorderEffect_08
+	bounds: 606, 908, 300, 300
+BorderEffect_09
+	bounds: 908, 1210, 300, 300
+BorderEffect_10
+	bounds: 2, 2, 300, 300
+BorderEffect_11
+	bounds: 304, 304, 300, 300
+BorderEffect_12
+	bounds: 606, 606, 300, 300
+BorderEffect_13
+	bounds: 908, 908, 300, 300
+BorderEffect_14
+	bounds: 1210, 1210, 300, 300

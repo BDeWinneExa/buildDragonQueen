@@ -1,0 +1,232 @@
+{
+  "layout": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "big-win"
+                  }
+                ],
+                "customParams": {
+                  "forEditor": true
+                },
+                "params": {
+                  "name": "reference",
+                  "pivotX": 540,
+                  "pivotY": 960
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "BigWinAnimation"
+            },
+            "params": {
+              "name": "animation"
+            }
+          }
+        ],
+        "cls": "starling.display.Sprite",
+        "customParams": {
+          "customComponentClass": "PopupBigWin"
+        },
+        "params": {
+          "name": "PopupBigWin",
+          "x": 540,
+          "y": 960,
+          "scaleX": 0.1,
+          "scaleY": 0.1
+        }
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "popup-freespin"
+                  }
+                ],
+                "customParams": {
+                  "forEditor": true
+                },
+                "params": {
+                  "name": "popup-freespin",
+                  "pivotX": 1500,
+                  "pivotY": 1500
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "forEditor": true
+            },
+            "params": {
+              "name": "animation"
+            }
+          },
+          {
+            "cls": "starling.text.TextField",
+            "constructorParams": [
+              {
+                "value": 200
+              },
+              {
+                "value": 100
+              },
+              {
+                "value": ""
+              }
+            ],
+            "customParams": {},
+            "params": {
+              "format": {
+                "cls": "starling.text.TextFormat",
+                "customParams": {},
+                "params": {
+                  "color": "ffffffff",
+                  "font": "DalekPinpointBold",
+                  "size": 40
+                }
+              },
+              "height": 400,
+              "name": "tfAmount",
+              "pivotX": 200,
+              "pivotY": 400,
+              "text": "10",
+              "width": 400,
+              "y": 280
+            }
+          }
+        ],
+        "cls": "starling.display.Sprite",
+        "customParams": {
+          "customComponentClass": "PopupFreespins"
+        },
+        "params": {
+          "name": "PopupFreespins",
+          "x": 540,
+          "y": 960
+        }
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "popup-freespin"
+                  }
+                ],
+                "customParams": {
+                  "forEditor": true
+                },
+                "params": {
+                  "name": "popup-freespin",
+                  "pivotX": 1500,
+                  "pivotY": 1500,
+                  "scaleX": 0.4,
+                  "scaleY": 0.4
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {},
+            "params": {
+              "name": "animation"
+            }
+          },
+          {
+            "cls": "starling.text.TextField",
+            "constructorParams": [
+              {
+                "value": 200
+              },
+              {
+                "value": 100
+              },
+              {
+                "value": ""
+              }
+            ],
+            "customParams": {},
+            "params": {
+              "format": {
+                "cls": "starling.text.TextFormat",
+                "customParams": {},
+                "params": {
+                  "color": "ffffffff",
+                  "font": "DalekPinpointBold",
+                  "size": 30
+                }
+              },
+              "height": 400,
+              "name": "tfAmount",
+              "pivotX": 200,
+              "pivotY": 200,
+              "text": "10",
+              "width": 400,
+              "y": 280
+            },
+            "tweenData": {
+              "effects": [
+                {
+                  "options": {
+                    "color": "0xA34411",
+                    "lineJoin": "round",
+                    "thickness": 4
+                  },
+                  "type": "stroke"
+                },
+                {
+                  "options": {
+                    "fill": [
+                      "#FFEC22",
+                      "#FF9211"
+                    ]
+                  },
+                  "type": "gradient"
+                }
+              ]
+            }
+          }
+        ],
+        "cls": "starling.display.Sprite",
+        "customParams": {
+          "customComponentClass": "PopupFreeSpinWinning"
+        },
+        "params": {
+          "name": "PopupFreeSpinWinning",
+          "x": 540,
+          "y": 960
+        }
+      }
+    ],
+    "cls": "starling.display.Sprite",
+    "customParams": {},
+    "params": {
+      "name": "root"
+    }
+  },
+  "setting": {
+    "canvasColor": 0,
+    "canvasSize": {
+      "x": 1080,
+      "y": 1920
+    },
+    "lock": "00000100"
+  },
+  "version": "2.0"
+}

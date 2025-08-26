@@ -1,0 +1,36 @@
+{
+  "layouts": [
+    {
+      "name": "loading-screen",
+      "url": "./layouts/loading-screen.json?v=0.0.20.1756237285183"
+    }
+  ],
+  "textures": [
+    {
+      "name": "loading",
+      "url": "./images/loading.json?v=0.0.20.1756237285183"
+    }
+  ],
+  "sounds": [],
+  "spine": [
+    {
+      "name": "desktop-loading-screen",
+      "url": "./spine/POA.json?v=0.0.20.1756237285183"
+    },
+    {
+      "name": "dragon-queen-desktop",
+      "url": "./spine/dragon_queen.json?v=0.0.20.1756237285183"
+    },
+    {
+      "name": "dragon-queen-mobile",
+      "url": "./spine/mobile/dragon_queen.json?v=0.0.20.1756237285183"
+    }
+  ],
+  "fonts": [
+    {
+      "name": "DalekPinpoint",
+      "url": "./fonts/DalekPinpoint.xml?v=0.0.20.1756237285183",
+      "type": "bitmap"
+    }
+  ]
+}

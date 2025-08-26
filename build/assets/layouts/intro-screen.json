@@ -1,0 +1,630 @@
+{
+  "layout": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "IntroScreenBackground"
+            },
+            "params": {
+              "name": "background",
+              "x": 540,
+              "y": 960
+            }
+          },
+          {
+            "cls": "starling.display.Image",
+            "constructorParams": [
+              {
+                "cls": "starling.textures.Texture",
+                "textureName": "fade"
+              }
+            ],
+            "customParams": {},
+            "params": {
+              "name": "fade",
+              "x": 540,
+              "y": 960,
+              "pivotX": 843,
+              "pivotY": 865
+            }
+          },
+          {
+            "children": [
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "logoimg"
+                  }
+                ],
+                "customParams": {
+                  "forEditor": true
+                },
+                "params": {
+                  "name": "reference",
+                  "pivotX": 654,
+                  "pivotY": 189.5
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "Logo"
+            },
+            "params": {
+              "name": "logo",
+              "x": 537,
+              "y": 274,
+              "scaleX": 1,
+              "scaleY": 1
+            }
+          },
+          {
+            "cls": "starling.text.TextField",
+            "constructorParams": [
+              {
+                "value": 200
+              },
+              {
+                "value": 100
+              },
+              {
+                "value": ""
+              }
+            ],
+            "customParams": {},
+            "params": {
+              "format": {
+                "cls": "starling.text.TextFormat",
+                "customParams": {},
+                "params": {
+                  "bold": true,
+                  "color": "#FFFFFF",
+                  "font": "AlexandriaFree",
+                  "size": 50
+                }
+              },
+              "name": "tfDonotShowAgain",
+              "height": 100,
+              "width": 300,
+              "pivotX": 150,
+              "pivotY": 50,
+              "text": "DO NOT SHOW AGAIN",
+              "x": 728,
+              "y": 1772.5
+            },
+            "tweenData": {
+              "translation-key": "tfDonotShowAgain"
+            }
+          },
+          {
+            "cls": "starling.display.Image",
+            "constructorParams": [
+              {
+                "cls": "starling.textures.Texture",
+                "textureName": "Volatility"
+              }
+            ],
+            "customParams": {},
+            "params": {
+              "name": "volatility",
+              "scaleX": 1.25,
+              "scaleY": 1.25,
+              "x": 308,
+              "y": 1772
+            }
+          },
+          {
+            "cls": "starling.display.Sprite",
+            "constructorParams": [
+              {
+                "cls": "starling.display.Sprite"
+              }
+            ],
+            "customParams": {
+              "customComponentClass": "GamePlayIntro"
+            },
+            "params": {
+              "name": "gamePlayIntro",
+              "x": -7,
+              "y": 563,
+              "scaleX": 0.625,
+              "scaleY": 0.87,
+              "pivotX": 53,
+              "pivotY": 300
+            },
+            "children": []
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "cls": "starling.display.Sprite",
+                "customParams": {
+                  "customComponentClass": "ButtonSpinAnimation"
+                },
+                "params": {
+                  "name": "normal"
+                }
+              },
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "spin-button-pattern"
+                  }
+                ],
+                "customParams": {
+                  "forEditor": true
+                },
+                "params": {
+                  "alpha": 1,
+                  "name": "pattern",
+                  "pivotX": 100,
+                  "pivotY": 100
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "ButtonGetStarted"
+            },
+            "params": {
+              "name": "btnGetStarted",
+              "x": 544,
+              "y": 1500,
+              "scaleX": 1,
+              "scaleY": 1
+            }
+          },
+          {
+            "cls": "starling.text.TextField",
+            "constructorParams": [
+              {
+                "value": 200
+              },
+              {
+                "value": 100
+              },
+              {
+                "value": ""
+              }
+            ],
+            "customParams": {},
+            "params": {
+              "format": {
+                "cls": "starling.text.TextFormat",
+                "customParams": {},
+                "params": {
+                  "bold": true,
+                  "color": "#FFE998",
+                  "font": "Alexandria",
+                  "fontWeight": 900,
+                  "size": 42,
+                  "dropShadow": true,
+                  "dropShadowColor": "#000000",
+                  "dropShadowOffsetX": 2,
+                  "dropShadowOffsetY": 2
+                }
+              },
+              "name": "xScatter",
+              "text": "FIND 4X SCATTER FOR FEATURE GAME",
+              "height": 100,
+              "width": 1080,
+              "pivotX": 540,
+              "pivotY": 50,
+              "x": 1091,
+              "y": 1292.5
+            },
+            "tweenData": {
+              "effects": [
+                {
+                  "options": {
+                    "color": "#000000",
+                    "lineJoin": "round",
+                    "thickness": 2
+                  },
+                  "type": "stroke"
+                },
+                {
+                  "options": {
+                    "fill": [
+                      "#FAE100",
+                      "#E59C00"
+                    ]
+                  },
+                  "type": "gradient"
+                }
+              ]
+            }
+          },
+          {
+            "children": [
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "chekeOn"
+                  }
+                ],
+                "customParams": {},
+                "params": {
+                  "name": "active"
+                }
+              },
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "chekeOFF"
+                  }
+                ],
+                "customParams": {},
+                "params": {
+                  "name": "inactive"
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "ToggleButton"
+            },
+            "params": {
+              "name": "skipBtn",
+              "pivotX": 9.35,
+              "pivotY": 9.35,
+              "x": 334.5,
+              "y": 1720.5,
+              "scaleX": 3,
+              "scaleY": 3
+            }
+          }
+        ],
+        "cls": "starling.display.Sprite",
+        "customParams": {},
+        "params": {
+          "name": "vertical"
+        }
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "IntroScreenBackground"
+            },
+            "params": {
+              "name": "background",
+              "x": 960,
+              "y": 540
+            }
+          },
+          {
+            "cls": "starling.display.Image",
+            "constructorParams": [
+              {
+                "cls": "starling.textures.Texture",
+                "textureName": "fade"
+              }
+            ],
+            "customParams": {},
+            "params": {
+              "name": "fade",
+              "x": 960,
+              "y": 540,
+              "pivotX": 843,
+              "pivotY": 865
+            }
+          },
+          {
+            "children": [
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "logoimg"
+                  }
+                ],
+                "customParams": {
+                  "forEditor": true
+                },
+                "params": {
+                  "name": "reference",
+                  "pivotX": 654,
+                  "pivotY": 189.5
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "Logo"
+            },
+            "params": {
+              "name": "logo",
+              "x": 1613,
+              "y": 216,
+              "scaleX": 0.7,
+              "scaleY": 0.7
+            }
+          },
+          {
+            "children": [
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "character"
+                  }
+                ],
+                "customParams": {
+                  "forEditor": true
+                },
+                "params": {
+                  "name": "reference",
+                  "pivotX": 242,
+                  "pivotY": 398.5
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "Character"
+            },
+            "params": {
+              "name": "character",
+              "x": 1619,
+              "y": 655.5,
+              "scaleX": 1,
+              "scaleY": 1
+            }
+          },
+          {
+            "children": [
+              {
+                "children": [],
+                "cls": "starling.display.Sprite",
+                "customParams": {
+                  "customComponentClass": "ButtonSpinAnimation"
+                },
+                "params": {
+                  "name": "normal"
+                }
+              },
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "spin-button-pattern"
+                  }
+                ],
+                "customParams": {
+                  "forEditor": true
+                },
+                "params": {
+                  "alpha": 0,
+                  "name": "pattern",
+                  "pivotX": 100,
+                  "pivotY": 100
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "ButtonGetStarted"
+            },
+            "params": {
+              "name": "btnGetStarted",
+              "x": 1616,
+              "y": 740
+            }
+          },
+          {
+            "cls": "starling.display.Image",
+            "constructorParams": [
+              {
+                "cls": "starling.textures.Texture",
+                "textureName": "Volatility"
+              }
+            ],
+            "customParams": {},
+            "params": {
+              "name": "volatility",
+              "scaleX": 1,
+              "scaleY": 1,
+              "x": 1416,
+              "y": 895
+            }
+          },
+          {
+            "cls": "starling.display.Sprite",
+            "constructorParams": [
+              {
+                "cls": "starling.display.Sprite"
+              }
+            ],
+            "customParams": {
+              "customComponentClass": "GamePlayIntro"
+            },
+            "params": {
+              "name": "gamePlayIntro",
+              "x": -38,
+              "y": -139,
+              "scaleX": 0.75,
+              "scaleY": 0.97
+            },
+            "children": []
+          },
+          {
+            "cls": "starling.text.TextField",
+            "constructorParams": [
+              {
+                "value": 200
+              },
+              {
+                "value": 100
+              },
+              {
+                "value": ""
+              }
+            ],
+            "customParams": {},
+            "params": {
+              "format": {
+                "cls": "starling.text.TextFormat",
+                "customParams": {},
+                "params": {
+                  "bold": true,
+                  "color": "#FFE998",
+                  "font": "DalekPinpoint",
+                  "size": 42,
+                  "dropShadow": true,
+                  "dropShadowColor": "#000000",
+                  "dropShadowOffsetX": 2,
+                  "dropShadowOffsetY": 2
+                }
+              },
+              "name": "xScatter",
+              "text": "FIND 4X SCATTER FOR FEATURE GAME",
+              "height": 100,
+              "width": 1080,
+              "pivotX": 540,
+              "pivotY": 50,
+              "x": 1215,
+              "y": 977.5
+            },
+            "tweenData": {
+              "effects": [
+                {
+                  "options": {
+                    "color": "#000000",
+                    "lineJoin": "round",
+                    "thickness": 2
+                  },
+                  "type": "stroke"
+                },
+                {
+                  "options": {
+                    "fill": [
+                      "#FFF502",
+                      "#FFC444",
+                      "#B13500"
+                    ]
+                  },
+                  "type": "gradient"
+                }
+              ]
+            }
+          },
+          {
+            "children": [
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "chekeOn"
+                  }
+                ],
+                "customParams": {},
+                "params": {
+                  "name": "active"
+                }
+              },
+              {
+                "cls": "starling.display.Image",
+                "constructorParams": [
+                  {
+                    "cls": "starling.textures.Texture",
+                    "textureName": "chekeOFF"
+                  }
+                ],
+                "customParams": {},
+                "params": {
+                  "name": "inactive"
+                }
+              }
+            ],
+            "cls": "starling.display.Sprite",
+            "customParams": {
+              "customComponentClass": "ToggleButton"
+            },
+            "params": {
+              "name": "skipBtn",
+              "pivotX": 9.35,
+              "pivotY": 9.35,
+              "x": 1384,
+              "y": 988.5,
+              "scaleX": 3,
+              "scaleY": 3
+            }
+          },
+          {
+            "cls": "starling.text.TextField",
+            "customParams": {},
+            "params": {
+              "format": {
+                "cls": "starling.text.TextFormat",
+                "customParams": {},
+                "params": {
+                  "bold": true,
+                  "color": "#FFFFFF",
+                  "font": "Alexandria",
+                  "size": 36
+                }
+              },
+              "name": "tfDonotShowAgain",
+              "text": "DO NOT SHOW AGAIN",
+              "height": 100,
+              "width": 300,
+              "pivotX": 150,
+              "pivotY": 50,
+              "x": 1780,
+              "y": 1037
+            },
+            "tweenData": {
+              "translation-key": "tfDonotShowAgain"
+            }
+          }
+        ],
+        "cls": "starling.display.Sprite",
+        "customParams": {},
+        "params": {
+          "name": "horizontal"
+        }
+      }
+    ],
+    "cls": "starling.display.Sprite",
+    "customParams": {},
+    "params": {
+      "name": "intro-screen"
+    },
+    "tweenData": {
+      "layouts": [
+        "horizontal",
+        "vertical"
+      ]
+    }
+  },
+  "setting": {
+    "canvasColor": 0,
+    "canvasSize": {
+      "x": 1920,
+      "y": 1920
+    },
+    "hidden": "0100000000000000000",
+    "lock": "0000000000100000000"
+  },
+  "version": "2.0"
+}

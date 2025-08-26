@@ -1,0 +1,20 @@
+POA.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+b1
+	bounds: 1333, 1029, 30, 29
+b2
+	bounds: 2, 307, 22, 23
+b3
+	bounds: 1903, 1903, 23, 23
+bg
+	bounds: 2, 1060, 1538, 866
+p1
+	bounds: 1542, 1567, 359, 359
+p2
+	bounds: 2, 332, 404, 270
+p3
+	bounds: 1542, 1266, 309, 299
+upp
+	bounds: 2, 604, 1329, 454

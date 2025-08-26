@@ -1,0 +1,173 @@
+multiplier_4.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.33
+Circle_rays_20
+	bounds: 2, 682, 335, 336
+	offsets: 1, 0, 338, 338
+FX/Elements 1/Elements 1_00000
+	bounds: 110, 422, 57, 58
+	offsets: 6, 3, 66, 66
+FX/Elements 1/Elements 1_00001
+	bounds: 540, 961, 56, 57
+	offsets: 7, 4, 66, 66
+FX/Elements 1/Elements 1_00002
+	bounds: 339, 756, 55, 59
+	offsets: 7, 4, 66, 66
+FX/Elements 1/Elements 1_00003
+	bounds: 110, 364, 54, 56
+	offsets: 8, 7, 66, 66
+FX/Elements 1/Elements 1_00004
+	bounds: 2, 197, 56, 56
+	offsets: 6, 7, 66, 66
+FX/Elements 1/Elements 1_00005
+	bounds: 339, 702, 55, 52
+	offsets: 6, 11, 66, 66
+FX/Elements 1/Elements 1_00006
+	bounds: 598, 965, 53, 53
+	offsets: 6, 11, 66, 66
+FX/Elements 1/Elements 1_00007
+	bounds: 192, 485, 53, 56
+	offsets: 6, 8, 66, 66
+FX/Elements 1/Elements 1_00008
+	bounds: 483, 896, 54, 59
+	offsets: 5, 5, 66, 66
+FX/Elements 1/Elements 1_00009
+	bounds: 483, 957, 55, 61
+	offsets: 5, 3, 66, 66
+FX/Elements 1/Elements 1_00010
+	bounds: 339, 817, 57, 61
+	offsets: 5, 2, 66, 66
+FX/Elements 1/Elements 1_00011
+	bounds: 2, 255, 57, 59
+	offsets: 5, 2, 66, 66
+FX/Elements 1/Elements 1_00012
+	bounds: 192, 543, 57, 58
+	offsets: 5, 2, 66, 66
+FX/Elements 1/Elements 1_00013
+	bounds: 271, 623, 58, 57
+	offsets: 5, 3, 66, 66
+FX/Elements 1/Elements 1_00014
+	bounds: 398, 822, 58, 56
+	offsets: 5, 4, 66, 66
+FX/Elements_Ro/Elements_R_00000
+	bounds: 331, 616, 17, 20
+	offsets: 1, 23, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00001
+	bounds: 87, 74, 20, 27
+	offsets: 2, 20, 66, 66
+FX/Elements_Ro/Elements_R_00002
+	bounds: 377, 668, 23, 32
+	offsets: 2, 17, 66, 66
+FX/Elements_Ro/Elements_R_00003
+	bounds: 339, 668, 32, 36
+	offsets: 2, 15, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00004
+	bounds: 493, 854, 41, 40
+	offsets: 2, 13, 66, 66
+FX/Elements_Ro/Elements_R_00005
+	bounds: 976, 969, 49, 42
+	offsets: 2, 12, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00006
+	bounds: 60, 195, 58, 43
+	offsets: 2, 12, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00007
+	bounds: 61, 255, 59, 44
+	offsets: 2, 11, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00008
+	bounds: 913, 975, 61, 43
+	offsets: 2, 11, 66, 66
+FX/Elements_Ro/Elements_R_00009
+	bounds: 2, 133, 62, 44
+	offsets: 2, 11, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00010
+	bounds: 653, 975, 63, 43
+	offsets: 2, 11, 66, 66
+FX/Elements_Ro/Elements_R_00011
+	bounds: 2, 68, 63, 43
+	offsets: 2, 11, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00012
+	bounds: 718, 975, 63, 43
+	offsets: 2, 11, 66, 66
+FX/Elements_Ro/Elements_R_00013
+	bounds: 2, 3, 63, 43
+	offsets: 2, 11, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00014
+	bounds: 783, 976, 63, 42
+	offsets: 2, 12, 66, 66
+FX/Elements_Ro/Elements_R_00015
+	bounds: 848, 976, 63, 42
+	offsets: 2, 12, 66, 66
+FX/Elements_Ro/Elements_R_00016
+	bounds: 110, 322, 62, 40
+	offsets: 3, 13, 66, 66
+FX/Elements_Ro/Elements_R_00017
+	bounds: 48, 131, 62, 40
+	offsets: 3, 13, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00018
+	bounds: 47, 67, 62, 38
+	offsets: 3, 14, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00019
+	bounds: 47, 4, 61, 36
+	offsets: 4, 16, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00020
+	bounds: 458, 819, 59, 33
+	offsets: 5, 17, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00021
+	bounds: 169, 428, 52, 33
+	offsets: 6, 17, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00022
+	bounds: 204, 432, 51, 32
+	offsets: 7, 17, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00023
+	bounds: 251, 552, 49, 32
+	offsets: 8, 17, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00024
+	bounds: 493, 820, 38, 32
+	offsets: 9, 17, 66, 66
+FX/Elements_Ro/Elements_R_00025
+	bounds: 331, 635, 36, 31
+	offsets: 11, 17, 66, 66
+FX/Elements_Ro/Elements_R_00026
+	bounds: 369, 637, 32, 29
+	offsets: 15, 18, 66, 66
+FX/Elements_Ro/Elements_R_00027
+	bounds: 90, 128, 31, 27
+	offsets: 16, 19, 66, 66
+	rotate: 90
+FX/Elements_Ro/Elements_R_00028
+	bounds: 87, 103, 30, 23
+	offsets: 17, 20, 66, 66
+FX/Elements_Ro/Elements_R_00029
+	bounds: 296, 602, 28, 19
+	offsets: 18, 23, 66, 66
+FX/Elements_Ro/Elements_R_00030
+	bounds: 271, 604, 23, 17
+	offsets: 18, 24, 66, 66
+Fire
+	bounds: 2, 316, 106, 164
+Frame
+	bounds: 2, 482, 188, 198
+Red Base
+	bounds: 339, 880, 142, 138
+back
+	bounds: 192, 603, 77, 77
+	offsets: 34, 36, 144, 152
+star 2
+	bounds: 90, 161, 32, 27
+	rotate: 90

@@ -1,0 +1,251 @@
+free_spin_popups.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+12 3
+	bounds: 39, 358, 184, 201
+	offsets: 1, 0, 186, 202
+Base
+	bounds: 626, 1547, 568, 499
+Dragongold 5
+	bounds: 1532, 1137, 97, 105
+	offsets: 6, 0, 103, 105
+Fade
+	bounds: 1196, 1547, 568, 499
+Game Meter
+	bounds: 2, 1513, 622, 533
+	offsets: 0, 0, 622, 539
+Heading
+	bounds: 2, 229, 330, 35
+	offsets: 0, 1, 330, 36
+	rotate: 90
+Heading-1
+	bounds: 563, 812, 250, 34
+	offsets: 0, 0, 250, 35
+	rotate: 90
+Heading-2
+	bounds: 626, 1531, 288, 14
+	offsets: 0, 0, 288, 15
+Heading-3
+	bounds: 159, 624, 312, 34
+Torch_00
+	bounds: 626, 1402, 127, 172
+	rotate: 90
+Torch_01
+	bounds: 599, 886, 127, 172
+Torch_02
+	bounds: 800, 1357, 127, 172
+Torch_03
+	bounds: 929, 1373, 127, 172
+Torch_04
+	bounds: 1058, 1373, 127, 172
+Torch_05
+	bounds: 1187, 1373, 127, 172
+Torch_06
+	bounds: 1316, 1373, 127, 172
+Torch_07
+	bounds: 1445, 1373, 127, 172
+Torch_08
+	bounds: 1574, 1373, 127, 172
+Torch_09
+	bounds: 770, 1228, 127, 172
+	rotate: 90
+Torch_10
+	bounds: 769, 1099, 127, 172
+	rotate: 90
+Torch_11
+	bounds: 944, 1244, 127, 172
+	rotate: 90
+Torch_12
+	bounds: 1118, 1244, 127, 172
+	rotate: 90
+Torch_13
+	bounds: 1292, 1244, 127, 172
+	rotate: 90
+Torch_14
+	bounds: 1466, 1244, 127, 172
+	rotate: 90
+Torch_15
+	bounds: 728, 886, 127, 172
+Torch_16
+	bounds: 599, 757, 127, 172
+	rotate: 90
+Torch_17
+	bounds: 563, 628, 127, 172
+	rotate: 90
+Torch_18
+	bounds: 589, 454, 127, 172
+Torch_19
+	bounds: 615, 280, 127, 172
+Torch_20
+	bounds: 857, 925, 127, 172
+Torch_21
+	bounds: 718, 454, 127, 172
+Torch_22
+	bounds: 744, 280, 127, 172
+Torch_23
+	bounds: 737, 628, 127, 172
+	rotate: 90
+cong 3
+	bounds: 2, 561, 950, 155
+	offsets: 0, 1, 950, 156
+	rotate: 90
+dragonqueen_eff_00
+	bounds: 847, 454, 1, 1
+dragonqueen_eff_01
+	bounds: 1640, 1241, 91, 130
+	offsets: 68, 62, 200, 200
+dragonqueen_eff_02
+	bounds: 2, 4, 161, 150
+	offsets: 39, 50, 200, 200
+dragonqueen_eff_03
+	bounds: 1766, 1846, 200, 200
+dragonqueen_eff_04
+	bounds: 159, 862, 200, 200
+dragonqueen_eff_05
+	bounds: 608, 1060, 159, 169
+	offsets: 14, 31, 200, 200
+dragonqueen_eff_06
+	bounds: 608, 1231, 160, 169
+	offsets: 16, 31, 200, 200
+dragonqueen_eff_07
+	bounds: 435, 63, 177, 173
+	offsets: 10, 27, 200, 200
+dragonqueen_eff_08
+	bounds: 39, 156, 192, 200
+	offsets: 0, 0, 200, 200
+dragonqueen_eff_09
+	bounds: 1766, 1644, 200, 200
+dragonqueen_eff_10
+	bounds: 159, 660, 200, 200
+dragonqueen_eff_11
+	bounds: 361, 862, 200, 200
+dragonqueen_eff_12
+	bounds: 435, 238, 189, 178
+	offsets: 1, 22, 200, 200
+	rotate: 90
+dragonqueen_eff_13
+	bounds: 361, 660, 200, 200
+dragonqueen_eff_14
+	bounds: 225, 422, 200, 200
+dragonqueen_eff_15
+	bounds: 233, 220, 200, 200
+dragonqueen_eff_16
+	bounds: 1766, 1442, 200, 200
+dragonqueen_eff_17
+	bounds: 233, 18, 200, 200
+dragonqueen_eff_18
+	bounds: 614, 65, 135, 147
+	offsets: 25, 46, 200, 200
+dragonqueen_eff_19
+	bounds: 1256, 1109, 138, 133
+	offsets: 24, 44, 200, 200
+dragonqueen_eff_20
+	bounds: 1396, 1112, 134, 130
+	offsets: 25, 46, 200, 200
+dragonqueen_eff_21
+	bounds: 773, 776, 108, 108
+	offsets: 43, 53, 200, 200
+firebreath/fire_dragon_00
+	bounds: 608, 1502, 15, 9
+	offsets: 3, 14, 186, 92
+firebreath/fire_dragon_01
+	bounds: 589, 438, 24, 14
+	offsets: 3, 12, 186, 92
+firebreath/fire_dragon_02
+	bounds: 165, 5, 45, 21
+	offsets: 3, 11, 186, 92
+firebreath/fire_dragon_03
+	bounds: 473, 631, 58, 27
+	offsets: 3, 9, 186, 92
+firebreath/fire_dragon_04
+	bounds: 911, 681, 74, 38
+	offsets: 3, 12, 186, 92
+	rotate: 90
+firebreath/fire_dragon_05
+	bounds: 784, 234, 85, 44
+	offsets: 3, 10, 186, 92
+firebreath/fire_dragon_06
+	bounds: 487, 12, 100, 49
+	offsets: 3, 9, 186, 92
+firebreath/fire_dragon_07
+	bounds: 943, 1114, 108, 50
+	offsets: 3, 9, 186, 92
+firebreath/fire_dragon_08
+	bounds: 1703, 1425, 120, 58
+	offsets: 2, 10, 186, 92
+	rotate: 90
+firebreath/fire_dragon_09
+	bounds: 165, 28, 126, 64
+	offsets: 3, 9, 186, 92
+	rotate: 90
+firebreath/fire_dragon_10
+	bounds: 1631, 1106, 133, 69
+	offsets: 4, 8, 186, 92
+	rotate: 90
+firebreath/fire_dragon_11
+	bounds: 1702, 1099, 140, 67
+	offsets: 3, 10, 186, 92
+	rotate: 90
+firebreath/fire_dragon_12
+	bounds: 1109, 1172, 145, 70
+	offsets: 4, 11, 186, 92
+firebreath/fire_dragon_13
+	bounds: 1968, 1397, 151, 75
+	offsets: 3, 11, 186, 92
+	rotate: 90
+firebreath/fire_dragon_14
+	bounds: 751, 59, 153, 74
+	offsets: 3, 13, 186, 92
+	rotate: 90
+firebreath/fire_dragon_15
+	bounds: 1968, 1888, 158, 78
+	offsets: 4, 12, 186, 92
+	rotate: 90
+firebreath/fire_dragon_16
+	bounds: 953, 758, 165, 73
+	offsets: 3, 11, 186, 92
+	rotate: 90
+firebreath/fire_dragon_17
+	bounds: 1968, 1550, 166, 74
+	offsets: 4, 12, 186, 92
+	rotate: 90
+firebreath/fire_dragon_18
+	bounds: 615, 214, 167, 64
+	offsets: 3, 11, 186, 92
+firebreath/fire_dragon_19
+	bounds: 847, 457, 169, 71
+	offsets: 4, 9, 186, 92
+	rotate: 90
+firebreath/fire_dragon_20
+	bounds: 944, 1166, 163, 76
+	offsets: 4, 7, 186, 92
+firebreath/fire_dragon_21
+	bounds: 883, 757, 166, 68
+	offsets: 3, 6, 186, 92
+	rotate: 90
+firebreath/fire_dragon_22
+	bounds: 873, 287, 168, 70
+	offsets: 3, 6, 186, 92
+	rotate: 90
+firebreath/fire_dragon_23
+	bounds: 1968, 1718, 168, 74
+	offsets: 3, 5, 186, 92
+	rotate: 90
+glow
+	bounds: 159, 1064, 447, 447
+star 2
+	bounds: 427, 429, 193, 160
+	offsets: 1, 1, 195, 162
+	rotate: 90
+stone 22
+	bounds: 1703, 1373, 50, 53
+	rotate: 90
+stone 24
+	bounds: 435, 2, 50, 59
+stone 30
+	bounds: 2, 177, 50, 35
+	rotate: 90
+stone 31
+	bounds: 769, 1060, 50, 37
+stone 9
+	bounds: 159, 581, 50, 41

@@ -1,0 +1,124 @@
+scatter.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.33
+A
+	bounds: 789, 823, 42, 32
+C
+	bounds: 833, 823, 40, 32
+E
+	bounds: 917, 821, 37, 34
+R
+	bounds: 521, 773, 55, 34
+S
+	bounds: 875, 823, 40, 32
+T_1
+	bounds: 350, 686, 32, 31
+	rotate: 90
+T_2
+	bounds: 383, 688, 32, 32
+bg
+	bounds: 2, 508, 181, 180
+body
+	bounds: 646, 861, 145, 160
+breast
+	bounds: 455, 770, 64, 37
+crown
+	bounds: 961, 949, 57, 72
+ear
+	bounds: 632, 789, 11, 18
+eye
+	bounds: 170, 476, 30, 10
+	rotate: 90
+eyebrow
+	bounds: 961, 939, 28, 8
+eyeclose
+	bounds: 507, 736, 32, 4
+	rotate: 90
+frame
+	bounds: 425, 809, 212, 219
+	rotate: 90
+frame_eff
+	bounds: 455, 720, 48, 50
+	offsets: 18, 18, 86, 86
+	rotate: 90
+hair1
+	bounds: 578, 773, 34, 52
+	rotate: 90
+hair2
+	bounds: 262, 692, 26, 48
+	rotate: 90
+hair3
+	bounds: 206, 694, 24, 54
+	rotate: 90
+hair4
+	bounds: 646, 817, 42, 104
+	rotate: 90
+hand
+	bounds: 312, 682, 36, 36
+head
+	bounds: 752, 811, 35, 48
+lowerarm
+	bounds: 417, 689, 29, 31
+mouth
+	bounds: 789, 813, 15, 8
+particles/particles_00000
+	bounds: 2, 85, 82, 79
+	offsets: 0, 1, 84, 85
+	rotate: 90
+particles/particles_00001
+	bounds: 2, 2, 81, 79
+	offsets: 1, 1, 84, 85
+	rotate: 90
+particles/particles_00002
+	bounds: 793, 857, 81, 79
+	offsets: 1, 1, 84, 85
+particles/particles_00003
+	bounds: 876, 857, 81, 79
+	offsets: 1, 1, 84, 85
+particles/particles_00004
+	bounds: 374, 722, 81, 79
+	offsets: 1, 1, 84, 85
+	rotate: 90
+particles/particles_00005
+	bounds: 206, 720, 82, 83
+	offsets: 1, 1, 84, 85
+particles/particles_00006
+	bounds: 2, 423, 82, 83
+	offsets: 1, 1, 84, 85
+particles/particles_00007
+	bounds: 793, 938, 82, 83
+	offsets: 1, 1, 84, 85
+particles/particles_00008
+	bounds: 290, 720, 82, 83
+	offsets: 1, 1, 84, 85
+particles/particles_00009
+	bounds: 2, 338, 82, 83
+	offsets: 1, 1, 84, 85
+particles/particles_00010
+	bounds: 86, 423, 82, 83
+	offsets: 1, 1, 84, 85
+particles/particles_00011
+	bounds: 877, 938, 82, 83
+	offsets: 1, 1, 84, 85
+particles/particles_00012
+	bounds: 2, 253, 82, 83
+	offsets: 1, 1, 84, 85
+particles/particles_00013
+	bounds: 86, 339, 80, 82
+	offsets: 2, 1, 84, 85
+particles/particles_00014
+	bounds: 2, 169, 80, 82
+	offsets: 2, 1, 84, 85
+particles/particles_00015
+	bounds: 86, 255, 80, 82
+	offsets: 2, 1, 84, 85
+small_hair
+	bounds: 646, 809, 6, 14
+	rotate: 90
+star 2
+	bounds: 448, 691, 32, 27
+wingback_L
+	bounds: 206, 805, 217, 216
+wingback_R
+	bounds: 2, 690, 202, 331

@@ -1,0 +1,93 @@
+high_payout_1.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.6
+Circle_rays_11
+	bounds: 2, 1026, 387, 383
+F1
+	bounds: 538, 1317, 92, 64
+	rotate: 90
+FX/Magic 2аеагаргпр 3_00000
+	bounds: 391, 1109, 120, 68
+FX/Magic 2аеагаргпр 3_00001
+	bounds: 795, 1541, 120, 68
+FX/Magic 2аеагаргпр 3_00002
+	bounds: 193, 598, 120, 68
+	rotate: 90
+FX/Magic 2аеагаргпр 3_00003
+	bounds: 976, 1619, 120, 68
+FX/Magic 2аеагаргпр 3_00004
+	bounds: 1549, 1781, 120, 68
+FX/Magic 2аеагаргпр 3_00005
+	bounds: 1740, 1943, 120, 68
+FX/Magic 2аеагаргпр 3_00006
+	bounds: 2, 2, 120, 68
+FX/Magic 2аеагаргпр 3_00007
+	bounds: 274, 792, 120, 68
+	rotate: 90
+FX/Magic 2аеагаргпр 3_00008
+	bounds: 391, 1039, 120, 68
+FX/Magic 2аеагаргпр 3_00009
+	bounds: 795, 1471, 120, 68
+FX/Magic 2аеагаргпр 3_00010
+	bounds: 193, 476, 120, 68
+	rotate: 90
+FX/Magic 2аеагаргпр 3_00011
+	bounds: 1098, 1619, 120, 68
+FX/Magic 2аеагаргпр 3_00012
+	bounds: 1549, 1711, 120, 68
+FX/Magic 2аеагаргпр 3_00013
+	bounds: 1740, 1873, 120, 68
+FX/Magic 2аеагаргпр 3_00014
+	bounds: 1862, 1943, 120, 68
+FX/Magic 2аеагаргпр 3_00015
+	bounds: 193, 354, 120, 68
+	rotate: 90
+FX/Magic 2аеагаргпр 3_00016
+	bounds: 1220, 1619, 120, 68
+FX/Magic 2аеагаргпр 3_00017
+	bounds: 1862, 1873, 120, 68
+FX/Magic 2аеагаргпр 3_00018
+	bounds: 193, 232, 120, 68
+	rotate: 90
+FX/Magic 2аеагаргпр 3_00019
+	bounds: 1342, 1619, 120, 68
+FX/Magic 2аеагаргпр 3_00020
+	bounds: 1342, 1619, 120, 68
+S1
+	bounds: 193, 140, 90, 86
+	rotate: 90
+S1 копия 2
+	bounds: 274, 914, 91, 110
+S2
+	bounds: 391, 1179, 145, 230
+glow
+	bounds: 604, 1611, 370, 400
+glow3
+	bounds: 2, 720, 270, 304
+low_payout_1/Effect/high_payEff_ (1)
+	bounds: 604, 1449, 189, 160
+low_payout_1/Effect/high_payEff_ (10)
+	bounds: 976, 1851, 189, 160
+low_payout_1/Effect/high_payEff_ (11)
+	bounds: 2, 558, 189, 160
+low_payout_1/Effect/high_payEff_ (12)
+	bounds: 976, 1689, 189, 160
+low_payout_1/Effect/high_payEff_ (2)
+	bounds: 1167, 1851, 189, 160
+low_payout_1/Effect/high_payEff_ (3)
+	bounds: 2, 396, 189, 160
+low_payout_1/Effect/high_payEff_ (4)
+	bounds: 1167, 1689, 189, 160
+low_payout_1/Effect/high_payEff_ (5)
+	bounds: 1358, 1851, 189, 160
+low_payout_1/Effect/high_payEff_ (6)
+	bounds: 2, 234, 189, 160
+low_payout_1/Effect/high_payEff_ (7)
+	bounds: 1358, 1689, 189, 160
+low_payout_1/Effect/high_payEff_ (8)
+	bounds: 1549, 1851, 189, 160
+low_payout_1/Effect/high_payEff_ (9)
+	bounds: 2, 72, 189, 160
+sun
+	bounds: 2, 1411, 600, 600

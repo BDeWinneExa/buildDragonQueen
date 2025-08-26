@@ -1,0 +1,57 @@
+{
+"skeleton": {
+	"hash": "PTDEdtKoEfw",
+	"spine": "4.1.24",
+	"x": -120,
+	"y": -121.27,
+	"width": 240,
+	"height": 240,
+	"images": "./images/",
+	"audio": "G:/.shortcut-targets-by-id/1HIX8a3gvycA8tCGcwZK4bF6FyooML3lO/Slots-Phase 1/(Done) GUARDIAN of HEAVEN/Animations/Files/frame_win"
+},
+"bones": [
+	{ "name": "root", "scaleX": 0.8, "scaleY": 0.8 },
+	{ "name": "BorderEffect", "parent": "root", "y": -1.59 }
+],
+"slots": [
+	{ "name": "BorderEffect", "bone": "BorderEffect", "attachment": "BorderEffect_00" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BorderEffect": {
+				"BorderEffect_00": {
+					"path": "BorderEffect_",
+					"width": 300,
+					"height": 300,
+					"sequence": { "count": 15, "start": 0, "digits": 2 }
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"win": {
+		"slots": {
+			"BorderEffect": {
+				"rgba": [
+					{ "time": 0.9333, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			}
+		},
+		"attachments": {
+			"default": {
+				"BorderEffect": {
+					"BorderEffect_00": {
+						"sequence": [
+							{ "mode": "once", "delay": 0.0667 }
+						]
+					}
+				}
+			}
+		}
+	}
+}
+}

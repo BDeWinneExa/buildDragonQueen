@@ -1,0 +1,12 @@
+total_win_background.webp
+size:500,500
+filter:Linear,Linear
+Save to Spine/Total Win/Base
+bounds:2,369,483,57
+offsets:1,1,485,59
+Save to Spine/Total Win/OutLine
+bounds:2,428,493,67
+offsets:1,1,495,69
+Save to Spine/Total Win/Shine
+bounds:2,329,20,38
+offsets:1,1,22,40

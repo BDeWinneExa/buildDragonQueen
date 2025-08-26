@@ -1,0 +1,132 @@
+background.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.5
+layers/clean_bg
+	bounds: 2, 107, 1081, 1921
+layers/mountain1
+	bounds: 1085, 1250, 653, 778
+layers/mountain1_b
+	bounds: 1085, 470, 653, 778
+layers/mountain2
+	bounds: 1085, 5, 463, 932
+	rotate: 90
+layers/stone_02
+	bounds: 830, 3, 102, 247
+	rotate: 90
+layers/stone_03
+	bounds: 1740, 1412, 616, 288
+	rotate: 90
+layers/stone_03_b
+	bounds: 1740, 794, 616, 288
+	rotate: 90
+layers/stone_06
+	bounds: 1740, 631, 248, 161
+layers/stone_08
+	bounds: 1740, 517, 112, 255
+	rotate: 90
+layers/stone_14
+	bounds: 2, 11, 412, 94
+layers/stone_14_b
+	bounds: 416, 11, 412, 94
+spark
+	bounds: 1740, 485, 24, 30
+
+background_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.5
+clouds/cloud5
+	bounds: 259, 9, 170, 105
+layers/clean_bg_b
+	bounds: 2, 116, 1080, 1920
+layers/fire_smoke
+	bounds: 1549, 1216, 487, 820
+layers/fire_smoke_b
+	bounds: 1084, 282, 487, 820
+layers/mountain2_b
+	bounds: 1084, 1104, 463, 932
+layers/stone_01
+	bounds: 1888, 757, 208, 128
+	rotate: 90
+layers/stone_01_b
+	bounds: 1888, 547, 208, 128
+	rotate: 90
+layers/stone_02_b
+	bounds: 1888, 967, 102, 247
+layers/stone_08_b
+	bounds: 2, 2, 112, 255
+	rotate: 90
+layers/stone_09
+	bounds: 1648, 56, 465, 324
+	rotate: 90
+layers/stone_11
+	bounds: 1084, 17, 562, 263
+layers/stone_12
+	bounds: 1573, 523, 691, 313
+	rotate: 90
+
+background_3.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.5
+layers/stone_04
+	bounds: 2, 1348, 601, 364
+layers/stone_04_b
+	bounds: 2, 982, 601, 364
+layers/stone_05
+	bounds: 2, 555, 402, 425
+layers/stone_05_b
+	bounds: 2, 128, 402, 425
+layers/stone_06_b
+	bounds: 605, 1214, 248, 161
+layers/stone_07
+	bounds: 406, 522, 458, 367
+	rotate: 90
+layers/stone_07_b
+	bounds: 406, 62, 458, 367
+	rotate: 90
+layers/stone_09_b
+	bounds: 1259, 1703, 465, 324
+layers/stone_10
+	bounds: 1726, 1692, 335, 264
+	rotate: 90
+layers/stone_10_b
+	bounds: 605, 1377, 335, 264
+	rotate: 90
+layers/stone_11_b
+	bounds: 695, 1764, 562, 263
+layers/stone_12_b
+	bounds: 2, 1714, 691, 313
+layers/stone_13
+	bounds: 2, 2, 157, 124
+layers/stone_13_b
+	bounds: 161, 2, 157, 124
+lightening/chain_electric_00000
+	bounds: 605, 1045, 167, 167
+lightening/chain_electric_00001
+	bounds: 871, 1595, 167, 167
+lightening/chain_electric_00002
+	bounds: 1040, 1595, 167, 167
+lightening/chain_electric_00003
+	bounds: 871, 1426, 167, 167
+lightening/chain_electric_00004
+	bounds: 1040, 1426, 167, 167
+lightening/chain_electric_00005
+	bounds: 1209, 1534, 167, 167
+lightening/chain_electric_00006
+	bounds: 1378, 1534, 167, 167
+lightening/chain_electric_00007
+	bounds: 1547, 1534, 167, 167
+lightening/chain_electric_00008
+	bounds: 1716, 1523, 167, 167
+lightening/chain_electric_00009
+	bounds: 1209, 1365, 167, 167
+lightening/chain_electric_00010
+	bounds: 1378, 1365, 167, 167
+lightening/chain_electric_00011
+	bounds: 1547, 1365, 167, 167
+lightening/chain_electric_00012
+	bounds: 1716, 1354, 167, 167
+lightening/chain_electric_00013
+	bounds: 774, 1045, 167, 167

@@ -1,0 +1,19 @@
+multiplier_8.webp
+	size: 512, 512
+	filter: Linear, Linear
+	scale: 0.33
+multipliers/12x
+	bounds: 2, 162, 274, 274
+multipliers/bg_1
+	bounds: 144, 2, 158, 98
+	offsets: 22, 45, 202, 202
+	rotate: 90
+multipliers/bg_2
+	bounds: 278, 301, 134, 135
+	offsets: 35, 33, 202, 202
+multipliers/frame
+	bounds: 2, 22, 140, 138
+	offsets: 30, 33, 202, 202
+multipliers/starglow
+	bounds: 278, 290, 9, 9
+	offsets: 2, 2, 13, 13

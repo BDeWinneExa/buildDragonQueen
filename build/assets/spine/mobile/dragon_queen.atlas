@@ -1,0 +1,34 @@
+dragon_queen.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+bg
+	bounds: 986, 462, 866, 1538
+coin1
+	bounds: 457, 343, 104, 86
+coin2
+	bounds: 1854, 1513, 122, 93
+coin3
+	bounds: 323, 322, 132, 107
+coin4
+	bounds: 1854, 1608, 131, 118
+coin5
+	bounds: 1854, 1728, 272, 146
+	rotate: 90
+coin6
+	bounds: 207, 267, 114, 162
+coin7
+	bounds: 2, 40, 162, 169
+light
+	bounds: 2, 431, 982, 1569
+smoke red
+	bounds: 2, 211, 203, 218
+
+dragon_queen_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+fire
+	bounds: 2, 438, 866, 1298
+sky
+	bounds: 870, 817, 866, 919

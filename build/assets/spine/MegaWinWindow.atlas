@@ -1,0 +1,121 @@
+MegaWinWindow.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.8
+Base
+	bounds: 2, 1475, 668, 571
+L_wing
+	bounds: 2, 2, 209, 380
+Mega
+	bounds: 1370, 1741, 608, 305
+PRESS ANYWHERE TO CONTINUE
+	bounds: 1877, 1395, 344, 18
+	rotate: 90
+Rectangle
+	bounds: 2, 1060, 609, 413
+Rectangle_btn
+	bounds: 613, 1069, 416, 126
+Super
+	bounds: 2, 384, 674, 298
+	rotate: 90
+b_dots
+	bounds: 1877, 1269, 108, 117
+	offsets: 0, 0, 109, 117
+big
+	bounds: 644, 777, 373, 290
+	offsets: 1, 1, 375, 292
+blue_egg
+	bounds: 1019, 792, 97, 133
+cup
+	bounds: 782, 115, 150, 166
+glow
+	bounds: 672, 1409, 559, 338
+grand
+	bounds: 672, 1749, 696, 297
+green_egg
+	bounds: 1139, 1307, 78, 100
+ground
+	bounds: 302, 430, 628, 340
+	rotate: 90
+open_fx/open_fx_-0001
+	bounds: 613, 1472, 1, 1
+open_fx/open_fx_00000
+	bounds: 644, 283, 320, 244
+	offsets: 0, 26, 320, 296
+open_fx/open_fx_00001
+	bounds: 213, 62, 320, 245
+	offsets: 0, 25, 320, 296
+	rotate: 90
+open_fx/open_fx_00002
+	bounds: 1233, 1247, 320, 244
+	offsets: 0, 26, 320, 296
+open_fx/open_fx_00003
+	bounds: 644, 529, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00004
+	bounds: 1233, 1493, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00005
+	bounds: 1555, 1493, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00006
+	bounds: 1555, 1245, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00007
+	bounds: 966, 455, 320, 246
+	offsets: 0, 25, 320, 296
+	rotate: 90
+open_fx/open_fx_00008
+	bounds: 966, 207, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00009
+	bounds: 460, 35, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00010
+	bounds: 1214, 999, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00011
+	bounds: 1536, 997, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00012
+	bounds: 1214, 751, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00013
+	bounds: 1214, 503, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00014
+	bounds: 1536, 749, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00015
+	bounds: 1536, 501, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00016
+	bounds: 1288, 181, 320, 246
+	offsets: 0, 25, 320, 296
+	rotate: 90
+open_fx/open_fx_00017
+	bounds: 1536, 253, 320, 246
+	offsets: 0, 25, 320, 296
+open_fx/open_fx_00018
+	bounds: 1536, 5, 320, 246
+	offsets: 0, 25, 320, 296
+purple_egg
+	bounds: 1031, 1061, 106, 134
+red_egg
+	bounds: 782, 39, 74, 88
+	rotate: 90
+ring
+	bounds: 1019, 927, 118, 132
+shine
+	bounds: 213, 2, 58, 196
+	rotate: 90
+support
+	bounds: 460, 288, 140, 170
+	rotate: 90
+teeth
+	bounds: 1897, 1536, 94, 203
+win
+	bounds: 613, 1197, 524, 210
+	offsets: 1, 1, 526, 212
+yellow_egg
+	bounds: 1897, 1388, 116, 146

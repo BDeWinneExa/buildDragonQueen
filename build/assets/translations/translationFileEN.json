@@ -1,0 +1,308 @@
+{"introTextDesktop": "WIN UP TO 5.000X",
+  "introTextMobile": "WIN UP TO 5.000X",
+"tfTotalWin":"TOTAL WIN",
+  "paytable": {
+    "page1": {
+      "title": "HEADER",
+      "tf0": "Semboller ekrandaki her yere ödeme yapar. Bir spinin sonunda ekrandaki aynı sembolün toplam\nsayısı, kazanma değerini belirler.",
+      "item2": "This is the SCATTER symbol.\nSCATTER symbol is\npresent on all reels.\nSCATTER pays\non any position"
+    },
+    "page2": {
+      "title": "TUMBLE FEATURE",
+      "tf0": "The TUMBLE FEATURE means that after every spin, winning\ncombinations are paid and all winning symbols\ndisappear. The remaining symbols fall to the bottom of the\nscreen and the empty positions are replaced\nwith symbols coming from above.",
+      "tf1": "Tumbling will continue until no more winning combinations\nappear as a result of a tumble. There's no limit to the\nnumber of possible tumbles.",
+      "tf2": "All wins are added to the player's balance after all of the\ntumbles resulted from a base spin have been played.",
+      "tf3": "These are the multiplier symbols. They are present on all\nreels and can hit randomly during\nspins and tumbles in both base game and FREE SPINS.",
+      "tf4": "Whenever a MULTIPLIER symbol hits, it takes a random\nmultiplier value of 2x, 3x, 4x, 5x, 6x, 8x, 10x, 12x, 15x, 20x,\n25x, 50x, 100x, 250x or 500x.",
+      "tf5": "When the tumbling sequence ends, the values of all\nMULTIPLIER symbols on the screen are added\ntogether and the total win of the sequence is multiplied\nby the final value."
+    },
+    "page3": {
+      "title": "FREE SPINS RULES",
+      "tf0": "The FREESPIN FEATURE is awarded when 4 or more\nSCATTER symbols hit anywhere on the screen.\nThe round starts with 15 free spins.",
+      "tf1": "During the FREE SPINS round, whenever a MULTIPLIER\nsymbol hits and the spin results in a win, the MULTIPLIER\nvalue gets added to the total multiplier.\nFor the whole duration of the round, whenever any new MULTIPLIER symbol\nhits and results in a win, the total multiplier value\nis also used to multiply the win.",
+      "tf2": "When 3 or more SCATTER symbols hit during\nthe FREE SPIN ROUND, 5 additional freespins are awarderd.\nSpecial reels are in play during FREE SPIN ROUND",
+      "tf3": "ANTE BET",
+      "tf4": "The player has the option to select ANTE BET, \n increasing the bet per line by 25x.\n The chance to win free spins naturally is doubled.\n More SCATTER symbols are present on the reels.",
+       "tf5": "BUY FEATURE",
+      "tf6": "The FREE SPINS ROUND can be instantly triggered from the base game by buying it for 100x current total bet. \nWhen the 25x ante bet feature is enabled, the BUY FREE SPINS feature is disabled"
+
+    },
+    "page4": {
+      "title": "GAME RULES",
+      "tf0": "",
+      "tf1": "Symbols pay anywhere.\nAll wins are multiplied by the base bet.",
+      "tf2": "All values are expressed as actual wins in coins.",
+      "tf3": "When winning with multiple symbols,\nall wins are added to the total win.",
+      "tf4": "Free spins is awarded to the player after\nthe round completes. The total win from past\nFreespins includes the total win of the series.",
+      "tf5": "The theoretical RTP of this game is 96.5%. \nWhen using \"ANTE BET,\" the RTP of the game is 96.5%.\nThe RTP of the game when using \"BUY FREE SPİNS\" is 96.5%",
+      "tf6": "MINIMUM BET: $0.20 \nMAXIMUM BET: $125.00",
+      "tf7": "Any malfunction voids all pays and plays."
+    },
+    "page5": {
+      "title": "HOW TO PLAY",
+      "tf0": "Click the",
+      "textCombined1": {
+        "icon1": "minusButton",
+        "part1": "or",
+        "icon2": "plusButton",
+        "part2": "buttons to change the bet value\nand open the bet menu."
+      },
+      "tf1": "Select the bet you want to use in the game.",
+      "tf2": "MAIN GAME INTERFACE",
+      "textCombined2": {
+        "icon1": "settn_icons",
+        "part1": " Opens the SETTINGS menu contains settings\nwhich affect the way the game is being played.\n"
+      },
+      "tf3": "",
+      "textCombined3": {
+        "icon1": "info_btn",
+        "part1": "Opens the Information page."
+      },
+      "tf4": "The CREDIT and BET labels display\nthe current balance and the total bet. \nClick on the labels to switch between token\nview and cash view.",
+      "textCombined4": {
+        "icon1": "minusButton",
+        "part1": "or",
+        "icon2": "plusButton",
+        "part2": "You can use the buttons to increase "
+      },
+      "tf5": "or decrease the current bet and make bet adjustments and\nopen the betting menu where you can make\nchanges to your bets.",
+      "tf6": "You can use the buttons to move\nthe current bet up or down and open the betting menu \nwhere you can change bet allocations.",
+      "tf7": "",
+      "textCombined5": {
+        "icon1": "minusButton",
+        "part1": "Starts the game"
+      }
+    },
+    "page6": {
+      "title": "SETTINGS MENU",
+      "tf0": "INTRO SCREEN - toggles the introductory screen\non and off\nAMBIENCE - toggles the ambient sound and music in\nthe game on and off\nSOUND EFFECTS - Turns the game's sound effects\non and off\nGAME HISTORY - Opens the game history page",
+      "tf1": "INFORMATION SCREEN",
+      "textCombined1": {
+        "icon1": "minusButton",
+        "part1": "and",
+        "icon2": "plusButton",
+        "part2": "scroll between information pages."
+      },
+      "tf2": "BET MENU",
+      "tf3": "The bet menu shows the bet multiplier available\nin the game, and the current\ntotal bet in both coins and cash.",
+      "tf4": "COIN VALUE fields to change the values.",
+      "textCombined2": {
+        "part1": "Use the",
+        "icon1": "minusButton",
+        "part2": "and",
+        "icon2": "plusButton",
+        "part3": "buttons in the BET and\n"
+      },
+      "tf5": "The maximum win amount\nis limited to 5000 times the bet.",
+      "tf6": "A round yields up to 4 DP,\nand all remaining features are lost.",
+      "tf7": "AUTOPLAY",
+      "tf8": "Click on the buttons showing the number of possible\nauto-spins to start Autoplay\nSKIP SCREEN option autospins the feature\nintroduction and end screens after a short period of time"
+    }
+  },
+  "paytableDesktop":{
+    "page1": {
+      "title": "PAYTABLE",
+      "tf0": "Symbols pay anywhere on the screen. \nThe total number of the same symbol on the screen at the end of a spin determines the value of the win.",
+      "item2": "This is the SCATTER symbol.\nSCATTER symbol is present on all reels.\nSCATTER pays on any position"
+   },
+    "page2": {
+      "title": "TUMBLE FEATURE",
+      "tf0": "The TUMBLE FEATURE means that after every spin, winning combinations are paid and all winning symbols\ndisappear. The remaining symbols fall to the bottom of the screen and the empty positions are replaced\nwith symbols coming from above.",
+      "tf1": "Tumbling will continue until no more winning combinations appear as a result of a tumble. There's no limit to the\nnumber of possible tumbles.",
+      "tf2": "All wins are added to the player's balance after all of the tumbles resulted from a base spin have been played.\n",
+      "tf3": "These are the multiplier symbols. They are present on all reels and can hit randomly during\nspins and tumbles in both base game and FREE SPINS.",
+      "tf4": "Whenever a MULTIPLIER symbol hits, it takes a random multiplier value of 2x, 3x, 4x, 5x, 6x, 8x, 10x, 12x, 15x, 20x,\n25x, 50x, 100x, 250x or 500x.",
+      "tf5": "When the tumbling sequence ends, the values of all MULTIPLIER symbols on the screen are added\ntogether and the total win of the sequence is multiplied by the final value."
+    },
+    "page3": {
+      "title": "FREESPIN RULES",
+      "tf0": "The FREESPIN FEATURE is awarded when 4 or more SCATTER symbols hit anywhere on the screen. \nThe round starts with 15 free spins.",
+      "tf1": "During the FREE SPINS round, whenever a MULTIPLIER symbol hits and the spin results in a win, the MULTIPLIER value gets\nadded to the total multiplier. For the whole duration of the round, whenever any new MULTIPLIER symbol hits and results\nin a win, the total multiplier value is also used to multiply the win.",
+      "tf2": "When 3 or more SCATTER symbols hit during the FREE SPIN ROUND, 5 additional freespins are awarded. \nSpecial reels are in play during FREE SPIN ROUND",
+      "tf3": "ANTE BET",
+      "tf4": "The player has the option to select ANTE BET, increasing the bet per line by 25x.\n The chance to win free spins naturally is doubled. More SCATTER symbols\n are present on the reels.",
+      "tf5": "BUY FEATURE",
+      "tf6": "The FREE SPINS ROUND can be instantly triggered from the base game by buying it for\n 100x current total bet. When the 25x ante bet feature is enabled,\n the BUY FREE SPINS feature is disabled"
+
+    },
+    "page4": {
+      "title": "GAME RULES",
+      "tf0": "High volatility games pay out less often on average but the chance to hit big wins in a short time span is higher.",
+      "tf1": "Symbols pay anywhere.\nAll wins are multiplied by the base bet.",
+      "tf2": "All values are expressed as actual wins in coins. ",
+      "tf3": "When winning with multiple symbols, all wins are added to the total win.",
+      "tf4": "Free spins is awarded to the player after the round completes.\nThe total win from past Freespins includes the total win of the series.",
+      "tf5": "The theoretical RTP of this game is 96.5%. \nWhen using \"ANTE BET,\" the RTP of the game is 96.5%.\nThe RTP of the game when using \"BUY FREE SPİNS\" is 96.50%.",
+      "tf6" : "MINIMUM BET: $0.20 \nMAXIMUM BET: $125.00",
+      "tf7": "Any malfunction voids all pays and plays."
+    },
+    "page5":{
+      "title": "HOW TO PLAY",
+      "textCombined1": {
+        "part1": "Click the",
+        "icon1":"minusButton",
+        "part2": "or",
+        "icon2": "plusButton",
+        "part3": "buttons to change the bet value and open the bet menu."
+      },
+      "tf0": "Select the bet you want to use in the game.",
+      "tf1": "MAIN GAME INTERFACE",
+      "textCombined2": {
+        "icon1":"settn_icons",
+        "part1": " Opens the SETTINGS menu contains settings which affect the way the game is being played."
+
+      },
+      "textCombined3": {
+        "icon1":"info_btn",
+        "part1": "Opens the Information page."
+      },
+      "tf2": "The CREDIT and BET labels display the current balance and the total bet. \nClick on the labels to switch between token view and cash view.",
+      "textCombined4": {
+        "icon1":"minusButton",
+        "part1": "or",
+        "icon2": "plusButton",
+        "part2": "You can use the buttons to increase or decrease the current bet and make bet adjustments and"
+      },
+      "tf3": "open the betting menu where you can make changes to your bets.",
+      "tf4": "You can use the buttons to move the current bet up or down and open the betting menu \nwhere you can change bet allocations.",
+      "textCombined5": {
+        "icon1":"minusButton",
+        "part1": "Starts the game"
+      }
+    },
+    "page6": {
+      "title": "SETTINGS MENU",
+      "tf0": "INTRO SCREEN - toggles the introductory screen on and off\nAMBIENCE - toggles the ambient sound and music in the game on and off\nSOUND EFFECTS - Turns the game's sound effects on and off\nGAME HISTORY - Opens the game history page",
+      "tf1": "INFORMATION SCREEN",
+      "textCombined1": {
+        "icon1":"minusButton",
+        "part1": "and",
+        "icon2": "plusButton",
+        "part2": "scroll between information pages."
+      },
+      "tf2": "BET MENU",
+      "tf3": "The bet menu shows the bet multiplier available in the game, and the current total bet in both coins and cash.",
+      "textCombined2": {
+        "part1": "Use the",
+        "icon1":"minusButton",
+        "part2": "and",
+        "icon2": "plusButton",
+        "part3": "buttons in the BET and COIN VALUE fields to change the values."
+      },
+      "tf4": "The maximum win amount is limited to 5000 times the bet.",
+      "tf5": "A round yields up to 4 DP, and all remaining features are lost.",
+      "tf6": "AUTOPLAY",
+      "tf7": "Click on the buttons showing the number of possible auto-spins to start Autoplay\nSKIP SCREEN option autospins the feature introduction and end screens after ashort period of time"
+    },
+    "previous": "BACK",
+    "next": "NEXT"
+  },
+  "systemSettings": {
+    "title": "SYSTEM SETTINGS",
+    "switchModule": {
+      "switch_module_1": {
+         "tf": "BATTERY SAVER",
+        "desc": "SAVE BATTERY LIFE BY\nREDUCING ANIMATION SPEED"
+      
+      },
+      "switch_module_2": {
+        "tf": "QUICK SPIN",
+        "desc": "PLAY FASTER BY REDUCING\nTOTAL SPIN TIME"
+      },
+      "switch_module_3": {
+          "tf": "SOUND",
+        "desc": "TURN ON OR OFF THE GAME\nSOUNDS"
+      },
+      "switch_module_4": {
+        "tf": "SKIP INTRO",
+        "desc": "Skip intro screen"
+      },
+      "switch_module_5": {
+        "tf": "INTRO SCREEN",
+        "desc": "INTRO SCREEN"
+      }
+    },
+    "betSettings": {
+      "tfTotalBet": "TOTAL BET"
+    },
+    "linkModule":{
+      "tfGameHistory": "GAME HISTORY",
+      "tfHome": "HOME"
+    },
+    "tfSettings": "GENERAL SETTINGS",
+    "tfBetSettings": "BET SETTINGS"
+  },
+  "adjustBet": {
+    "title": "BET MULTIPLIER\n 20X",
+    "tfBet": "BET",
+    "tfCoinValue": "COIN VALUE",
+    "tfTotalBet": "TOTAL BET",
+    "btnMax": "BET MAX",
+    "btnMin": "BET MIN",
+    "btnConfirm": "CONFIRM"
+  },
+  "history": {
+    "title": "HISTORY",
+    "tfdate": "DATE",
+    "tftotalBet": "TOTAL BET",
+    "tfwin": "TOTAL WIN",
+    "tfbalance": "BALANCE",
+    "nohistoryentries": "No history entries",
+    "tfbetId": "BET ID"
+  },
+  "autoSpin": {
+    "title": "AUTOSPIN SETTINGS",
+    "tfNumber": "NUMBER OF AUTOSPINS",
+    "tfStop": "STOP AUTOSPIN",
+    "tfCheckbox1": "On any win",
+    "tfCheckbox2": "If bonus game is won",
+    "tfCheckbox3": "If single win exceeds",
+    "tfCheckbox4": "If cash balance increases by",
+    "tfCheckbox5": "If cash balance decreases by",
+    "tfConfirm": "CONFIRM",
+     "tfStartAutoPlay":"START AUTOPLAY",
+     "tfSkipScreen": "SKIP SCREEN",
+     "tfHeading":"AUTOPLAY SETTINGS",
+     "tfTurboSpin":"TURBO SPIN",
+     "tfQuickSpin":"QUICK SPIN",
+     "tfSkipSpin":"SUPER SPIN",
+     "tfMin":"MIN",
+     "tfMax":"MAX"
+  },
+  "freeSpins": {
+    "buy": "BUY\nFEATURE",
+    "left": "FREE SPINS\nLEFT"
+  },
+  "doubleChance": {
+    "bet":"BET",
+    "double": "DOUBLE",
+    "description": "CHANCE TO\n WIN FEATURE",
+    "doubleChance": "DOUBLE CHANCE",
+    "toWinFeature": "TO WIN FEATURE"
+  },
+  "tfWinUpTo": "WIN UP TO 5000X",
+  "tfGoodLuck": "GOOD LUCK",
+ "tfWin": "TOTAL WIN: ",
+  "tfDesktopWin": "WIN",
+  "tfBet":"BET",
+  "tfBalance":"BALANCE",
+  "tfHoldSpace": "HOLD SPACE FOR TURBO SPIN",
+  "tumblewin": "TUMBLE WIN",
+  "tfholdspacebtnfor": "HOLD SPACE BUTTON FOR",
+  "tfturbospin": "TURBO SPIN",
+  "noBalance": {
+    "title": "INSUFFICIENT BALANCE",
+    "msg": "Add money to your account",
+    "add": "ADD"
+  },
+  "loseConnection": {
+    "title": "ERROR",
+    "msg": "The Network Connection Lost"
+  },
+  "tfpressanywhereto": "PRESS ANYWHERE TO CONTINUE",
+  "tfFreeSpin": "FREE SPIN",
+  "tfYouHaveWon": "YOU HAVE WON",
+  "tfIn15FreeSpins": "IN 15 FREE SPINS",
+  "tfstart": "START",
+  "tfDonotShowAgain": "DO NOT SHOW AGAIN"
+}

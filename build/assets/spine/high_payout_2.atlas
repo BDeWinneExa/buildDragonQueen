@@ -1,0 +1,140 @@
+high_payout_2.webp
+	size: 2048, 2048
+	filter: Linear, Linear
+	scale: 0.6
+Effect/high_payEff_ (1)
+	bounds: 272, 1869, 189, 160
+Effect/high_payEff_ (10)
+	bounds: 2, 1351, 189, 160
+Effect/high_payEff_ (11)
+	bounds: 463, 1869, 189, 160
+Effect/high_payEff_ (12)
+	bounds: 2, 1189, 189, 160
+Effect/high_payEff_ (2)
+	bounds: 654, 1869, 189, 160
+Effect/high_payEff_ (3)
+	bounds: 2, 1027, 189, 160
+Effect/high_payEff_ (4)
+	bounds: 845, 1869, 189, 160
+Effect/high_payEff_ (5)
+	bounds: 2, 865, 189, 160
+Effect/high_payEff_ (6)
+	bounds: 1036, 1869, 189, 160
+Effect/high_payEff_ (7)
+	bounds: 2, 703, 189, 160
+Effect/high_payEff_ (8)
+	bounds: 1227, 1869, 189, 160
+Effect/high_payEff_ (9)
+	bounds: 2, 541, 189, 160
+Light
+	bounds: 1670, 1758, 28, 27
+base
+	bounds: 2, 1513, 202, 246
+body
+	bounds: 1548, 1570, 101, 93
+destroy/dragonqueen_eff_00
+	bounds: 1418, 1909, 120, 120
+destroy/dragonqueen_eff_01
+	bounds: 2, 419, 120, 120
+destroy/dragonqueen_eff_02
+	bounds: 1540, 1909, 120, 120
+destroy/dragonqueen_eff_03
+	bounds: 2, 297, 120, 120
+destroy/dragonqueen_eff_04
+	bounds: 1662, 1909, 120, 120
+destroy/dragonqueen_eff_05
+	bounds: 2, 175, 120, 120
+destroy/dragonqueen_eff_06
+	bounds: 1784, 1909, 120, 120
+destroy/dragonqueen_eff_07
+	bounds: 2, 53, 120, 120
+destroy/dragonqueen_eff_08
+	bounds: 1906, 1909, 120, 120
+destroy/dragonqueen_eff_09
+	bounds: 415, 1747, 120, 120
+destroy/dragonqueen_eff_10
+	bounds: 537, 1747, 120, 120
+destroy/dragonqueen_eff_11
+	bounds: 659, 1747, 120, 120
+destroy/dragonqueen_eff_12
+	bounds: 781, 1747, 120, 120
+destroy/dragonqueen_eff_13
+	bounds: 903, 1747, 120, 120
+destroy/dragonqueen_eff_14
+	bounds: 1025, 1747, 120, 120
+destroy/dragonqueen_eff_15
+	bounds: 1147, 1747, 120, 120
+destroy/dragonqueen_eff_16
+	bounds: 1269, 1747, 120, 120
+destroy/dragonqueen_eff_17
+	bounds: 124, 419, 120, 120
+destroy/dragonqueen_eff_18
+	bounds: 124, 297, 120, 120
+destroy/dragonqueen_eff_19
+	bounds: 124, 175, 120, 120
+destroy/dragonqueen_eff_20
+	bounds: 124, 53, 120, 120
+destroy/dragonqueen_eff_21
+	bounds: 206, 1639, 120, 120
+fire/fire_00002
+	bounds: 206, 1517, 120, 120
+fire/fire_00003
+	bounds: 1418, 1787, 120, 120
+fire/fire_00004
+	bounds: 1540, 1787, 120, 120
+fire/fire_00005
+	bounds: 1662, 1787, 120, 120
+fire/fire_00006
+	bounds: 1784, 1787, 120, 120
+fire/fire_00007
+	bounds: 1906, 1787, 120, 120
+fire/fire_00008
+	bounds: 328, 1625, 120, 120
+fire/fire_00009
+	bounds: 450, 1625, 120, 120
+fire/fire_00010
+	bounds: 572, 1625, 120, 120
+fire/fire_00011
+	bounds: 694, 1625, 120, 120
+fire/fire_00012
+	bounds: 816, 1625, 120, 120
+fire/fire_00013
+	bounds: 938, 1625, 120, 120
+fire/fire_00014
+	bounds: 1060, 1625, 120, 120
+fire/fire_00015
+	bounds: 1182, 1625, 120, 120
+fire/fire_00016
+	bounds: 328, 1503, 120, 120
+fire/fire_00017
+	bounds: 450, 1503, 120, 120
+fire/fire_00018
+	bounds: 572, 1503, 120, 120
+fire/fire_00019
+	bounds: 694, 1503, 120, 120
+fire/fire_00020
+	bounds: 816, 1503, 120, 120
+fire/fire_00021
+	bounds: 938, 1503, 120, 120
+fire/fire_00022
+	bounds: 1060, 1503, 120, 120
+fire/fire_00023
+	bounds: 1182, 1503, 120, 120
+fire/fire_00024
+	bounds: 1304, 1625, 120, 120
+fire/fire_00025
+	bounds: 1304, 1503, 120, 120
+fire/fire_00026
+	bounds: 1426, 1665, 120, 120
+fire/fire_00027
+	bounds: 1426, 1543, 120, 120
+fire/fire_00028
+	bounds: 1548, 1665, 120, 120
+glow
+	bounds: 2, 1761, 268, 268
+head
+	bounds: 272, 1773, 141, 94
+jaw
+	bounds: 1426, 1504, 27, 37
+star 2
+	bounds: 2, 2, 59, 49

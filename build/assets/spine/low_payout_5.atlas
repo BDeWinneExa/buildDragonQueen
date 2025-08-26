@@ -1,0 +1,154 @@
+low_payout_5.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.33
+backglow
+	bounds: 362, 743, 103, 135
+	rotate: 90
+btm_5
+	bounds: 180, 657, 102, 93
+	rotate: 90
+btm_inside
+	bounds: 309, 563, 97, 69
+crack_1
+	bounds: 640, 519, 65, 65
+crack_2
+	bounds: 934, 634, 36, 83
+	rotate: 90
+crack_3
+	bounds: 248, 461, 56, 61
+crack_4
+	bounds: 275, 649, 73, 108
+ef/ef_00015
+	bounds: 666, 644, 121, 132
+	offsets: 0, 0, 132, 132
+	rotate: 90
+ef/ef_00016
+	bounds: 800, 633, 117, 132
+	offsets: 3, 0, 132, 132
+	rotate: 90
+ef/ef_00017
+	bounds: 167, 324, 112, 132
+	offsets: 3, 0, 132, 132
+ef/ef_00018
+	bounds: 167, 190, 113, 132
+	offsets: 5, 0, 132, 132
+ef/ef_00019
+	bounds: 350, 634, 107, 132
+	offsets: 7, 0, 132, 132
+	rotate: 90
+ef/ef_00020
+	bounds: 2, 3, 119, 132
+	offsets: 3, 0, 132, 132
+	rotate: 90
+ef/ef_00021
+	bounds: 484, 593, 131, 132
+	offsets: 1, 0, 132, 132
+	rotate: 90
+ef/ef_00022
+	bounds: 196, 17, 110, 132
+	offsets: 12, 0, 132, 132
+	rotate: 90
+ef/ef_00023
+	bounds: 175, 505, 71, 132
+	offsets: 31, 0, 132, 132
+ef/ef_00024
+	bounds: 160, 129, 59, 132
+	offsets: 37, 0, 132, 132
+	rotate: 90
+ef/ef_00025
+	bounds: 248, 524, 59, 123
+	offsets: 38, 0, 132, 132
+ef/ef_00026
+	bounds: 136, 4, 58, 118
+	offsets: 39, 0, 132, 132
+expls/expls_00000
+	bounds: 2, 833, 181, 189
+	offsets: 0, 9, 198, 198
+expls/expls_00001
+	bounds: 2, 639, 176, 192
+	offsets: 0, 5, 198, 198
+expls/expls_00002
+	bounds: 185, 839, 175, 183
+	offsets: 1, 10, 198, 198
+expls/expls_00003
+	bounds: 2, 458, 171, 179
+	offsets: 3, 10, 198, 198
+expls/expls_00004
+	bounds: 362, 848, 166, 174
+	offsets: 6, 10, 198, 198
+expls/expls_00005
+	bounds: 2, 285, 163, 171
+	offsets: 8, 10, 198, 198
+expls/expls_00006
+	bounds: 530, 856, 158, 166
+	offsets: 11, 11, 198, 198
+expls/expls_00007
+	bounds: 2, 124, 156, 159
+	offsets: 15, 12, 198, 198
+expls/expls_00008
+	bounds: 690, 872, 152, 150
+	offsets: 19, 16, 198, 198
+expls/expls_00009
+	bounds: 844, 885, 142, 137
+	offsets: 28, 20, 198, 198
+expls/expls_00010
+	bounds: 844, 752, 138, 131
+	offsets: 31, 23, 198, 198
+expls/expls_00011
+	bounds: 530, 726, 134, 128
+	offsets: 33, 25, 198, 198
+expls/expls_00012
+	bounds: 408, 558, 74, 74
+	offsets: 62, 62, 198, 198
+expls/expls_00013
+	bounds: 484, 515, 76, 76
+	offsets: 61, 61, 198, 198
+expls/expls_00014
+	bounds: 562, 515, 76, 76
+	offsets: 61, 61, 198, 198
+expls/expls_00015
+	bounds: 282, 759, 78, 78
+	offsets: 60, 60, 198, 198
+glow
+	bounds: 618, 654, 42, 70
+high_payEff_ (4)
+	bounds: 477, 447, 66, 74
+	offsets: 22, 6, 104, 88
+	rotate: 90
+light
+	bounds: 618, 593, 66, 49
+	offsets: 3, 0, 72, 50
+low_5
+	bounds: 690, 767, 103, 139
+	offsets: 18, 0, 139, 139
+	rotate: 90
+sparks/sparks_00003
+	bounds: 988, 983, 39, 32
+	offsets: 30, 35, 99, 99
+	rotate: 90
+sparks/sparks_00004
+	bounds: 984, 835, 48, 38
+	offsets: 26, 33, 99, 99
+	rotate: 90
+sparks/sparks_00006
+	bounds: 707, 519, 65, 52
+	offsets: 20, 28, 99, 99
+	rotate: 90
+sparks/sparks_00008
+	bounds: 553, 452, 73, 61
+	offsets: 18, 24, 99, 99
+sparks/sparks_00014
+	bounds: 934, 672, 88, 78
+	offsets: 11, 14, 99, 99
+sparks/sparks_00017
+	bounds: 309, 480, 82, 81
+	offsets: 17, 13, 99, 99
+sparks/sparks_00018
+	bounds: 393, 475, 82, 81
+	offsets: 17, 13, 99, 99
+sparks/sparks_00021
+	bounds: 686, 586, 69, 56
+	offsets: 30, 23, 99, 99
+top_5
+	bounds: 185, 761, 95, 76
