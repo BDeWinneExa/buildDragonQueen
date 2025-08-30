@@ -2,442 +2,442 @@
   "layouts": [
     {
       "name": "intro-screen",
-      "url": "./layouts/intro-screen.json?v=0.0.20.1756237285183"
+      "url": "./layouts/intro-screen.json?v=0.0.20.1756565839001"
     },
     {
       "name": "main-screen",
-      "url": "./layouts/main-screen.json?v=0.0.20.1756237285183"
+      "url": "./layouts/main-screen.json?v=0.0.20.1756565839001"
     },
     {
       "name": "settingPortrait",
-      "url": "./layouts/settingPortrait.json?v=0.0.20.1756237285183"
+      "url": "./layouts/settingPortrait.json?v=0.0.20.1756565839001"
     },
     {
       "name": "settingslLandscape",
-      "url": "./layouts/settingslLandscape.json?v=0.0.20.1756237285183"
+      "url": "./layouts/settingslLandscape.json?v=0.0.20.1756565839001"
     },
     {
       "name": "paytableLandscape",
-      "url": "./layouts/paytableLandscape.json?v=0.0.20.1756237285183"
+      "url": "./layouts/paytableLandscape.json?v=0.0.20.1756565839001"
     },
     {
       "name": "adjustBetPanelLandscape",
-      "url": "./layouts/adjustBetPanelLandscape.json?v=0.0.20.1756237285183"
+      "url": "./layouts/adjustBetPanelLandscape.json?v=0.0.20.1756565839001"
     },
     {
       "name": "adjustBetPanelPortrait",
-      "url": "./layouts/adjustBetPanelPortrait.json?v=0.0.20.1756237285183"
+      "url": "./layouts/adjustBetPanelPortrait.json?v=0.0.20.1756565839001"
     },
     {
       "name": "autoplayLandscape",
-      "url": "./layouts/autoplayLandscape.json?v=0.0.20.1756237285183"
+      "url": "./layouts/autoplayLandscape.json?v=0.0.20.1756565839001"
     },
     {
       "name": "autoplayPortrait",
-      "url": "./layouts/autoplayPortrait.json?v=0.0.20.1756237285183"
+      "url": "./layouts/autoplayPortrait.json?v=0.0.20.1756565839001"
     },
     {
       "name": "paytablePortrait",
-      "url": "./layouts/paytablePortrait.json?v=0.0.20.1756237285183"
+      "url": "./layouts/paytablePortrait.json?v=0.0.20.1756565839001"
     },
     {
       "name": "uiHorizontal",
-      "url": "./layouts/uiHorizontal.json?v=0.0.20.1756237285183"
+      "url": "./layouts/uiHorizontal.json?v=0.0.20.1756565839001"
     },
     {
       "name": "uiPortrait",
-      "url": "./layouts/uiPortrait.json?v=0.0.20.1756237285183"
+      "url": "./layouts/uiPortrait.json?v=0.0.20.1756565839001"
     },
     {
       "name": "popupFeatureBuy",
-      "url": "./layouts/popupFeatureBuy.json?v=0.0.20.1756237285183"
+      "url": "./layouts/popupFeatureBuy.json?v=0.0.20.1756565839001"
     },
     {
       "name": "popupNotEnoughBalancePortrait",
-      "url": "./layouts/popupNotEnoughBalancePortrait.json?v=0.0.20.1756237285183"
+      "url": "./layouts/popupNotEnoughBalancePortrait.json?v=0.0.20.1756565839001"
     },
     {
       "name": "popupNotEnoughBalanceLandscape",
-      "url": "./layouts/popupNotEnoughBalanceLandscape.json?v=0.0.20.1756237285183"
+      "url": "./layouts/popupNotEnoughBalanceLandscape.json?v=0.0.20.1756565839001"
     },
     {
       "name": "popupLostConnectionPortrait",
-      "url": "./layouts/popupLostConnectionPortrait.json?v=0.0.20.1756237285183"
+      "url": "./layouts/popupLostConnectionPortrait.json?v=0.0.20.1756565839001"
     },
     {
       "name": "popupLostConnectionLandscape",
-      "url": "./layouts/popupLostConnectionLandscape.json?v=0.0.20.1756237285183"
+      "url": "./layouts/popupLostConnectionLandscape.json?v=0.0.20.1756565839001"
     },
     {
       "name": "popups",
-      "url": "./layouts/popups.json?v=0.0.20.1756237285183"
+      "url": "./layouts/popups.json?v=0.0.20.1756565839001"
     }
   ],
   "textures": [
     {
       "name": "texture",
-      "url": "./images/texture.json?v=0.0.20.1756237285183"
+      "url": "./images/texture.json?v=0.0.20.1756565839001"
     },
     {
       "name": "fade",
-      "url": "./images/fade.webp?v=0.0.20.1756237285183"
+      "url": "./images/fade.webp?v=0.0.20.1756565839001"
     }
   ],
   "spine": [
     {
       "name": "symbol-00",
-      "url": "./spine/low_payout_1.json?v=0.0.20.1756237285183"
+      "url": "./spine/low_payout_1.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-01",
-      "url": "./spine/low_payout_2.json?v=0.0.20.1756237285183"
+      "url": "./spine/low_payout_2.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-02",
-      "url": "./spine/low_payout_3.json?v=0.0.20.1756237285183"
+      "url": "./spine/low_payout_3.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-03",
-      "url": "./spine/low_payout_4.json?v=0.0.20.1756237285183"
+      "url": "./spine/low_payout_4.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-04",
-      "url": "./spine/low_payout_5.json?v=0.0.20.1756237285183"
+      "url": "./spine/low_payout_5.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-05",
-      "url": "./spine/high_payout_1.json?v=0.0.20.1756237285183"
+      "url": "./spine/high_payout_1.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-06",
-      "url": "./spine/high_payout_2.json?v=0.0.20.1756237285183"
+      "url": "./spine/high_payout_2.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-07",
-      "url": "./spine/high_payout_3.json?v=0.0.20.1756237285183"
+      "url": "./spine/high_payout_3.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-08",
-      "url": "./spine/high_payout_4.json?v=0.0.20.1756237285183"
+      "url": "./spine/high_payout_4.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-scatter",
-      "url": "./spine/scatter.json?v=0.0.20.1756237285183"
+      "url": "./spine/scatter.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-multiplier-purple",
-      "url": "./spine/multiplier_3.json?v=0.0.20.1756237285183"
+      "url": "./spine/multiplier_3.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-multiplier-blue",
-      "url": "./spine/multiplier_2.json?v=0.0.20.1756237285183"
+      "url": "./spine/multiplier_2.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-multiplier-green",
-      "url": "./spine/multiplier_1.json?v=0.0.20.1756237285183"
+      "url": "./spine/multiplier_1.json?v=0.0.20.1756565839001"
     },
     {
       "name": "symbol-multiplier-orange",
-      "url": "./spine/multiplier_4.json?v=0.0.20.1756237285183"
+      "url": "./spine/multiplier_4.json?v=0.0.20.1756565839001"
     },
     {
       "name": "main-screen-background",
-      "url": "./spine/background.json?v=0.0.20.1756237285183"
+      "url": "./spine/background.json?v=0.0.20.1756565839001"
     },
     {
       "name": "main-screen-background-mobile",
-      "url": "./spine/mobile/background.json?v=0.0.20.1756237285183"
+      "url": "./spine/mobile/background.json?v=0.0.20.1756565839001"
     },
     {
       "name": "reel-background-animation",
-      "url": "./spine/real_background.json?v=0.0.20.1756237285183"
+      "url": "./spine/real_background.json?v=0.0.20.1756565839001"
     },
     {
       "name": "button-spin",
-      "url": "./spine/spin_button.json?v=0.0.20.1756237285183"
+      "url": "./spine/spin_button.json?v=0.0.20.1756565839001"
     },
     {
       "name": "character",
-      "url": "./spine/hero.json?v=0.0.20.1756237285183"
+      "url": "./spine/hero.json?v=0.0.20.1756565839001"
     },
     {
       "name": "logo",
-      "url": "./spine/logo.json?v=0.0.20.1756237285183"
+      "url": "./spine/logo.json?v=0.0.20.1756565839001"
     },
     {
       "name": "free_spin_popups",
-      "url": "./spine/free_spin_popups.json?v=0.0.20.1756237285183"
+      "url": "./spine/free_spin_popups.json?v=0.0.20.1756565839001"
     },
     {
       "name": "transition-animation",
-      "url": "./spine/transition.json?v=0.0.20.1756237285183"
+      "url": "./spine/transition.json?v=0.0.20.1756565839001"
     },
     {
       "name": "transition-animation-mobile",
-      "url": "./spine/mobile/transition.json?v=0.0.20.1756237285183"
+      "url": "./spine/mobile/transition.json?v=0.0.20.1756565839001"
     },
     {
       "name": "total_win_background",
-      "url": "./spine/total_win_background.json?v=0.0.20.1756237285183"
+      "url": "./spine/total_win_background.json?v=0.0.20.1756565839001"
     },
     {
       "name": "destroy",
-      "url": "./spine/disappear_effect.json?v=0.0.20.1756237285183"
+      "url": "./spine/disappear_effect.json?v=0.0.20.1756565839001"
     },
     {
       "name": "win_frame",
-      "url": "./spine/frame_win.json?v=0.0.20.1756237285183"
+      "url": "./spine/frame_win.json?v=0.0.20.1756565839001"
     },
     {
       "name": "big_win",
-      "url": "./spine/BigWinWindow.json?v=0.0.20.1756237285183"
+      "url": "./spine/BigWinWindow.json?v=0.0.20.1756565839001"
     },
     {
       "name": "grand_win",
-      "url": "./spine/GrandWinWindow.json?v=0.0.20.1756237285183"
+      "url": "./spine/GrandWinWindow.json?v=0.0.20.1756565839001"
     },
     {
       "name": "mega_win",
-      "url": "./spine/MegaWinWindow.json?v=0.0.20.1756237285183"
+      "url": "./spine/MegaWinWindow.json?v=0.0.20.1756565839001"
     },
     {
       "name": "super_win",
-      "url": "./spine/SuperWinWindow.json?v=0.0.20.1756237285183"
+      "url": "./spine/SuperWinWindow.json?v=0.0.20.1756565839001"
     },
     {
       "name": "reel-background-chains",
-      "url": "./spine/real_background_chain.json?v=0.0.20.1756237285183"
+      "url": "./spine/real_background_chain.json?v=0.0.20.1756565839001"
     }
   ],
   "sounds": [
     {
       "name": "big_win",
       "url": [
-        "./sounds/big_win.mp3?v=0.0.20.1756237285183"
+        "./sounds/big_win.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "char_so_shiny",
       "url": [
-        "./sounds/char_so_shiny.mp3?v=0.0.20.1756237285183"
+        "./sounds/char_so_shiny.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "super_win",
       "url": [
-        "./sounds/super_win.mp3?v=0.0.20.1756237285183"
+        "./sounds/super_win.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "ultra_win",
       "url": [
-        "./sounds/ultra_win.mp3?v=0.0.20.1756237285183"
+        "./sounds/ultra_win.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "mega_win",
       "url": [
-        "./sounds/mega_win.mp3?v=0.0.20.1756237285183"
+        "./sounds/mega_win.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "basegame_loop",
       "url": [
-        "./sounds/basegame_loop.mp3?v=0.0.20.1756237285183"
+        "./sounds/basegame_loop.mp3?v=0.0.20.1756565839001"
       ],
       "channel": "ambient"
     },
     {
       "name": "freegame_loop",
       "url": [
-        "./sounds/freegame_loop.mp3?v=0.0.20.1756237285183"
+        "./sounds/freegame_loop.mp3?v=0.0.20.1756565839001"
       ],
       "channel": "ambient"
     },
     {
       "name": "symbol_lp1_win",
       "url": [
-        "./sounds/low_payout_1.mp3?v=0.0.20.1756237285183"
+        "./sounds/low_payout_1.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "symbol_hp1_win",
       "url": [
-        "./sounds/high_payout_1.mp3?v=0.0.20.1756237285183"
+        "./sounds/high_payout_1.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "symbol_scatter_win",
       "url": [
-        "./sounds/scatter.mp3?v=0.0.20.1756237285183"
+        "./sounds/scatter.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "button_spin_start",
       "url": [
-        "./sounds/spin_btn.mp3?v=0.0.20.1756237285183"
+        "./sounds/spin_btn.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "reel_spin",
       "url": [
-        "./sounds/reel_spin.mp3?v=0.0.20.1756237285183"
+        "./sounds/reel_spin.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "reel_stop",
       "url": [
-        "./sounds/reel_stop.mp3?v=0.0.20.1756237285183"
+        "./sounds/reel_stop.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "error_appearance",
       "url": [
-        "./sounds/error_appearance.mp3?v=0.0.20.1756237285183"
+        "./sounds/error_appearance.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "common_popup_window",
       "url": [
-        "./sounds/common_popup_windows.mp3?v=0.0.20.1756237285183"
+        "./sounds/common_popup_windows.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "button_click",
       "url": [
-        "./sounds/button_click.mp3?v=0.0.20.1756237285183"
+        "./sounds/button_click.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "counter_loop",
       "url": [
-        "./sounds/counter_loop.mp3?v=0.0.20.1756237285183"
+        "./sounds/counter_loop.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "ante_bet_on",
       "url": [
-        "./sounds/ante_bet_on.mp3?v=0.0.20.1756237285183"
+        "./sounds/ante_bet_on.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "ante_bet_off",
       "url": [
-        "./sounds/ante_bet_off.mp3?v=0.0.20.1756237285183"
+        "./sounds/ante_bet_off.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "bet_panel_inside_amount_increase",
       "url": [
-        "./sounds/bet_panel_inside_amount_increase.mp3?v=0.0.20.1756237285183"
+        "./sounds/bet_panel_inside_amount_increase.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "bet_panel_inside_amount_decrease",
       "url": [
-        "./sounds/bet_panel_inside_amount_decrease.mp3?v=0.0.20.1756237285183"
+        "./sounds/bet_panel_inside_amount_decrease.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "congratulations_screen",
       "url": [
-        "./sounds/congratulations_screen.mp3?v=0.0.20.1756237285183"
+        "./sounds/congratulations_screen.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "frame_multiplier",
       "url": [
-        "./sounds/frame_multiplier.mp3?v=0.0.20.1756237285183"
+        "./sounds/frame_multiplier.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "intro_spin_start_button_click",
       "url": [
-        "./sounds/intro_spin_start_button_click.mp3?v=0.0.20.1756237285183"
+        "./sounds/intro_spin_start_button_click.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "intro_loop",
       "url": [
-        "./sounds/intro_game_ambiance.mp3?v=0.0.20.1756237285183"
+        "./sounds/intro_game_ambiance.mp3?v=0.0.20.1756565839001"
       ],
       "channel": "ambient"
     },
     {
       "name": "buy_freespin",
       "url": [
-        "./sounds/buy_freespin.mp3?v=0.0.20.1756237285183"
+        "./sounds/buy_freespin.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "reel_multiplier",
       "url": [
-        "./sounds/reel_multiplier.mp3?v=0.0.20.1756237285183"
+        "./sounds/reel_multiplier.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "bet_panel_turbo_icon_click",
       "url": [
-        "./sounds/bet_panel_turbo_icon_click.mp3?v=0.0.20.1756237285183"
+        "./sounds/bet_panel_turbo_icon_click.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "symbol_scatter_land",
       "url": [
-        "./sounds/scatter_landing.mp3?v=0.0.20.1756237285183"
+        "./sounds/scatter_landing.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "popup_hide",
       "url": [
-        "./sounds/hide_popup.mp3?v=0.0.20.1756237285183"
+        "./sounds/hide_popup.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "transition",
       "url": [
-        "./sounds/transition.mp3?v=0.0.20.1756237285183"
+        "./sounds/transition.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "multiplier",
       "url": [
-        "./sounds/multiplier.mp3?v=0.0.20.1756237285183"
+        "./sounds/multiplier.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "show_popup",
       "url": [
-        "./sounds/show_popup.mp3?v=0.0.20.1756237285183"
+        "./sounds/show_popup.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "hero_animation",
       "url": [
-        "./sounds/hero_animation.mp3?v=0.0.20.1756237285183"
+        "./sounds/hero_animation.mp3?v=0.0.20.1756565839001"
       ]
     },
     {
       "name": "free_spin_triggered",
       "url": [
-        "./sounds/freespin_triggered.mp3?v=0.0.20.1756237285183"
+        "./sounds/freespin_triggered.mp3?v=0.0.20.1756565839001"
       ]
     }
   ],
   "fonts": [
     {
       "name": "Alexandria",
-      "url": "./fonts/Alexandria.xml?v=0.0.20.1756237285183",
+      "url": "./fonts/Alexandria.xml?v=0.0.20.1756565839001",
       "type": "bitmap"
     },
     {
       "name": "Alexandria-Bold",
-      "url": "./fonts/AlexandriaBold.xml?v=0.0.20.1756237285183",
+      "url": "./fonts/AlexandriaBold.xml?v=0.0.20.1756565839001",
       "type": "bitmap"
     },
     {
       "name": "DalekPinpointBold",
-      "url": "./fonts/AtlantisGoldFont.fnt?v=0.0.20.1756237285183",
+      "url": "./fonts/AtlantisGoldFont.fnt?v=0.0.20.1756565839001",
       "type": "bitmap"
     }
   ]

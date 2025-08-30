@@ -2,34 +2,34 @@
   "layouts": [
     {
       "name": "loading-screen",
-      "url": "./layouts/loading-screen.json?v=0.0.20.1756237285183"
+      "url": "./layouts/loading-screen.json?v=0.0.20.1756565839001"
     }
   ],
   "textures": [
     {
       "name": "loading",
-      "url": "./images/loading.json?v=0.0.20.1756237285183"
+      "url": "./images/loading.json?v=0.0.20.1756565839001"
     }
   ],
   "sounds": [],
   "spine": [
     {
       "name": "desktop-loading-screen",
-      "url": "./spine/POA.json?v=0.0.20.1756237285183"
+      "url": "./spine/POA.json?v=0.0.20.1756565839001"
     },
     {
       "name": "dragon-queen-desktop",
-      "url": "./spine/dragon_queen.json?v=0.0.20.1756237285183"
+      "url": "./spine/dragon_queen.json?v=0.0.20.1756565839001"
     },
     {
       "name": "dragon-queen-mobile",
-      "url": "./spine/mobile/dragon_queen.json?v=0.0.20.1756237285183"
+      "url": "./spine/mobile/dragon_queen.json?v=0.0.20.1756565839001"
     }
   ],
   "fonts": [
     {
       "name": "DalekPinpoint",
-      "url": "./fonts/DalekPinpoint.xml?v=0.0.20.1756237285183",
+      "url": "./fonts/DalekPinpoint.xml?v=0.0.20.1756565839001",
       "type": "bitmap"
     }
   ]
